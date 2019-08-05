@@ -39,11 +39,28 @@
 
 @section('content')
     <!-- Page Content -->
-    <div class="content" style="">
+    <div class="content" style="width: 100%; alignment: center; padding: 0px; margin: 0px; border: 0px"">
+        <div class="my-50 text-center">
+            <h2 class="font-w700 text-black mb-10">Legacy Maintenance Services</h2>
+            <h3 class="h5 text-muted mb-0">Sales / GP Report</h3>
+        </div>
+
+        <!-- Info -->
+        <div class="row justify-content-center">
+            <div class="col-md-6">
+                <div class="block">
+                    <div class="block-content">
+                        <p class="text-muted">
+                            July - 2019
+                        </p>
+                    </div>
+                </div>
+            </div>
+        </div>
         <!-- END Info -->
 
         <!-- Dynamic Table Full -->
-        <div class="block" >
+        <div class="block" style="width: 120%; padding: inherit; margin: inherit;">
             <div class="block-header block-header-default">
                 <h3 class="block-title">Dynamic Table <small>Full</small></h3>
             </div>
