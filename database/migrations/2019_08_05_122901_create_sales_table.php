@@ -26,6 +26,8 @@ class CreateSalesTable extends Migration
             $table->integer('margin');
             $table->string('employee_name');
             $table->string('store_division');
+            $table->timestamp('created_at')->nullable();
+            $table->timestamp('updated_at')->nullable();
         });
     }
     /**

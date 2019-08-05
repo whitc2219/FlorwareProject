@@ -30,7 +30,7 @@
             // Init full DataTable
             jQuery('.js-dataTable-full').dataTable({
                 pageLength: 5,
-                lengthMenu: [[5, 10, 20], [5, 10, 20]],
+                lengthMenu: [[5, 10, 20, 50, 100, 200], [5, 10, 20, 50, 100, 200]],
                 autoWidth: false
             });
         });
