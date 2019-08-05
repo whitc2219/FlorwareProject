@@ -473,7 +473,7 @@
                                 </div>
                             </div>
                         </form>
-                   </div>
+                    </div>
                 </div>
                 <!-- END Header Search -->
 

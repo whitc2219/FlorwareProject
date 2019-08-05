@@ -39,7 +39,7 @@
 
 @section('content')
     <!-- Page Content -->
-    <div class="content" style="width: 100%; alignment: center; padding: 0px; margin: 0px; border: 0px"">
+    <div class="content" style="width: auto">
         <div class="my-50 text-center">
             <h2 class="font-w700 text-black mb-10">Legacy Maintenance Services</h2>
             <h3 class="h5 text-muted mb-0">Sales / GP Report</h3>
@@ -60,13 +60,13 @@
         <!-- END Info -->
 
         <!-- Dynamic Table Full -->
-        <div class="block" style="width: 120%; padding: inherit; margin: inherit;">
+        <div class="block">
             <div class="block-header block-header-default">
                 <h3 class="block-title">Dynamic Table <small>Full</small></h3>
             </div>
             <div class="block-content block-content-full">
                 <!-- DataTables init on table by adding .js-dataTable-full class, functionality is initialized at the top of this page -->
-                <table class="table table-bordered table-striped table-vcenter js-dataTable-full">
+                <table class="table table-bordered table-striped table-vcenter js-dataTable-full" >
                     <thead>
                     <tr>
                        <!-- <th class="text-center" style="width: 80px;">#</th> -->
