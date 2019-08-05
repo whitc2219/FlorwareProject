@@ -60,11 +60,11 @@
         <!-- END Info -->
 
         <!-- Dynamic Table Full -->
-        <div class="block" style="width: auto; padding: 2px; margin: 2px;">
-            <div class="block-header block-header-default" style="width: auto; padding-left: 2px; margin-left: 2px;">
+        <div class="block" style="width: 5000px; padding: 2px; margin: 2px;">
+            <div class="block-header block-header-default" style="width: 5000px; padding-left: 2px; margin-left: 2px;">
                 <h3 class="block-title">Dynamic Table <small>Full</small></h3>
             </div>
-            <div class="block-content block-content-full" style="width: auto; padding: 2px; margin: 2px;">
+            <div class="block-content block-content-full" style="width: 5000px; padding: 2px; margin: 2px;">
                 <!-- DataTables init on table by adding .js-dataTable-full class, functionality is initialized at the top of this page -->
                 <table class="table table-bordered table-striped table-vcenter js-dataTable-full" style="width: auto; padding: 2px; margin: 2px;">
                     <thead>
