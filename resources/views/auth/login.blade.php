@@ -149,9 +149,9 @@ MAIN CONTENT LAYOUT
                                 </div>
                                 <div class="block-content bg-body-light">
                                     <div class="form-group text-center">
-                                         <a class="link-effect text-muted mr-10 mb-5 d-inline-block" href="op_auth_signup3">
+                                        <!-- <a class="link-effect text-muted mr-10 mb-5 d-inline-block" href="op_auth_signup3">
                                             <i class="fa fa-plus mr-5"></i> Create Account
-                                        </a>
+                                        </a>-->
                                         <a class="link-effect text-muted mr-10 mb-5 d-inline-block" href="op_auth_reminder3">
                                             <i class="fa fa-warning mr-5"></i> Forgot Password
                                         </a>

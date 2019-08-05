@@ -1398,15 +1398,26 @@
             <main id="main-container">
 
                 <!-- Page Content -->
-                <div class="bg-image" style="background-image: url('assets/media/photos/photo2@2x.jpg');">
+                <div class="bg-image" style="background-image: url('assets/media/photos/RockStarHand2.png');">
                     <div class="hero bg-primary-dark-op">
                         <div class="hero-inner">
                             <div class="content content-full text-center">
-                                <h1 class="display-4 font-w700 text-white mb-10 invisible" data-toggle="appear" data-class="animated fadeInDown">Codebase</h1>
-                                <h2 class="font-w400 text-white-op mb-50 invisible" data-toggle="appear" data-class="animated fadeInUp" data-timeout="250">It’s Time to Create Your Next Amazing Project</h2>
-                                <a class="btn btn-hero btn-noborder btn-rounded btn-primary invisible" data-toggle="appear" data-class="animated bounceIn" data-timeout="750" href="be_layout_hero_image">
-                                    <i class="si si-rocket mr-10"></i> Get Started
+                                <h1 class="display-4 font-w700 text-white mb-10 invisible" data-toggle="appear" data-class="animated fadeInDown">We’re going to party like rock stars for Wyatt’s 10th birthday!</h1><br>
+                                <h1 class="font-w400 text-white-op mb-50 invisible" data-toggle="appear" data-class="animated fadeInUp" data-timeout="250">Please join us this Sunday, August 11th.</h1>
+                                <h2 class="font-w400 text-white-op mb-50 invisible" data-toggle="appear" data-class="animated fadeInUp" data-timeout="250">We’ll pick you up at your house between 2:00 and 2:30pm to travel in rock star style to Throw Nation, where we’ll smash stuff and get inked up (just temporarily, of course).</h2>
+                                <h2 class="font-w400 text-white-op mb-50 invisible" data-toggle="appear" data-class="animated fadeInUp" data-timeout="250">After throwing back some pizza and birthday treats, we’ll return you to your house between 5:15 and 5:45pm.</h2>
+ <br><br>
+                                <h2 class="font-w400 text-white-op mb-50 invisible" data-toggle="appear" data-class="animated fadeInUp" data-timeout="250">Please RSVP to Whit at 614-582-5833 or whitc@earthlink.net by Thursday.</h2>
+                                <br><br>
+                                <h2 class="font-w400 text-white-op mb-50 invisible" data-toggle="appear" data-class="animated fadeInUp" data-timeout="250">(Parents - If you don’t want your child getting a temporary, airbrushed tattoo, please let us know.)</h2>
+
+                                <!--<a class="btn btn-hero btn-noborder btn-rounded btn-primary invisible" data-toggle="appear" data-class="animated bounceIn" data-timeout="750" href="be_layout_hero_image">
+                                    <i class="si si-rocket mr-10"></i> Please RSVP to Whit at 614-582-5833 or whitc@earthlink.net by Thursday.
                                 </a>
+                                <div><br><a class="btn btn-hero btn-noborder btn-rounded btn-primary invisible" data-toggle="appear" data-class="animated bounceIn" data-timeout="750" href="be_layout_hero_image">
+                                    <i class="si si-rocket mr-10"></i> (Parents - If you don’t want your child getting a temporary, airbrushed tattoo, please let us know.)
+                                </a>-->
+                                </div>
                             </div>
                         </div>
                     </div>
