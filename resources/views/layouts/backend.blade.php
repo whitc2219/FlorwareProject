@@ -75,7 +75,7 @@
             'main-content-boxed'                        Full width Main Content with a specific maximum width (screen width > 1200px)
             'main-content-narrow'                       Full width Main Content with a percentage width (screen width > 1200px)
         -->
-        <div id="page-container" class="sidebar-o enable-page-overlay side-scroll page-header-modern main-content-boxed">
+        <div id="page-container" >
             <!-- Side Overlay-->
             <aside id="side-overlay">
                 <!-- Side Header -->
