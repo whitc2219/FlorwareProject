@@ -60,11 +60,11 @@
         <!-- END Info -->
 
         <!-- Dynamic Table Full -->
-        <div class="block" style="width: inherit;">
+        <div class="block" style="width: max-content;">
             <div class="block-header block-header-default">
                 <h3 class="block-title">Dynamic Table <small>Full</small></h3>
             </div>
-            <div class="block-content block-content-full" style="width: inherit;">
+            <div class="block-content block-content-full" style="width: max-content;">
                 <!-- DataTables init on table by adding .js-dataTable-full class, functionality is initialized at the top of this page -->
                 <table class="table table-bordered table-striped table-vcenter js-dataTable-full" >
                     <thead>
