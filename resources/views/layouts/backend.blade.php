@@ -220,7 +220,7 @@
                                         <a class="{{ request()->is('customers/customers') ? ' active' : '' }}" href="/customers/customers">Customers</a>
                                     </li>
                                     <li>
-                                        <a class="{{ request()->is('customers/customers') ? ' active' : '' }}" href="/sales/sales">Sales</a>
+                                        <a class="{{ request()->is('customers/customers') ? ' active' : '' }}" href="/sales/sales">Sales 1</a>
                                     </li>
                                 </ul>
                             </li>
