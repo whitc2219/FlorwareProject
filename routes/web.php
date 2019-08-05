@@ -25,6 +25,7 @@ Auth::routes();
 Route::get('/home', 'HomeController@index')->name('home');
 
 Route::get('/customers/customers', 'CustomersController@list');
+Route::get('/sales/sales', 'SalesController@list');
 
 Route::view('bd_dashboard', 'bd_dashboard');
 Route::view('bd_search', 'bd_search');

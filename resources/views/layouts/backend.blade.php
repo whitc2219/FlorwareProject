@@ -217,7 +217,10 @@
                                         <a class="{{ request()->is('examples/blank') ? ' active' : '' }}" href="/examples/blank">Blank</a>
                                     </li>
                                     <li>
-                                        <a class="{{ request()->is('customers/customers') ? ' active' : '' }}" href="/customers/customers">Blank</a>
+                                        <a class="{{ request()->is('customers/customers') ? ' active' : '' }}" href="/customers/customers">Customers</a>
+                                    </li>
+                                    <li>
+                                        <a class="{{ request()->is('customers/customers') ? ' active' : '' }}" href="/sales/sales">Sales</a>
                                     </li>
                                 </ul>
                             </li>
