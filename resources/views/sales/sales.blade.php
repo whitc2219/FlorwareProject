@@ -70,11 +70,18 @@
                     <thead>
                     <tr>
                        <!-- <th class="text-center" style="width: 80px;">#</th> -->
-                        <th>Sale</th>
+                        <th>Type</th>
                         <th>Customer</th>
-                        <th>Total</th>
-                        <th>Profit</th>
-                        <th>Margin</th>
+                        <th>Location</th>
+                        <th>Sale No</th>
+                        <th>Date</th>
+                        <th>Billed Amt</th>
+                        <th>Hours</th>
+                        <th>Total Cost</th>
+                        <th>Gross Profit</th>
+                        <th>GP %</th>
+                        <th>Account Mgr</th>
+                        <th>Branch</th>
                         <!-- <th class="d-none d-sm-table-cell" style="width: 30%;">Email</th> -->
                         <!-- <th style="width: 15%;">Registered</th> -->
                     </tr>
@@ -83,18 +90,41 @@
 
                     @foreach($sales as $sale)
                         <tr>
-                            <td class="text-center"><{{ $sale->sale_number }}></td>
                             <td class="font-w600">
-                                <a href="javascript:void(0)">{{ $sale->customer_name }}</a>
+                                <a href="javascript:void(0)">{{ $sale->type }}</a>
                             </td>
                             <td class="d-none d-sm-table-cell">
+                                <em class="text-muted">{{ $sale->customer_name }}</em>
+                            </td>
+                            <td>
+                                <em class="text-muted">{{ $sale->customer_name_2 }}</em>
+                            </td>
+                            <td>
+                                <em class="text-muted">{{ $sale->sale_number }}</em>
+                            </td>
+                            <td>
+                                <em class="text-muted">{{ $sale->date_completed }}</em>
+                            </td>
+                            <td>
                                 <em class="text-muted">{{ $sale->total }}</em>
+                            </td>
+                            <td>
+                                <em class="text-muted">{{ $sale->total_hours }}</em>
+                            </td>
+                            <td>
+                                <em class="text-muted">{{ $sale->total_cost }}</em>
                             </td>
                             <td>
                                 <em class="text-muted">{{ $sale->profit }}</em>
                             </td>
                             <td>
                                 <em class="text-muted">{{ $sale->margin }}</em>
+                            </td>
+                            <td>
+                                <em class="text-muted">{{ $sale->employee_name }}</em>
+                            </td>
+                            <td>
+                                <em class="text-muted">{{ $sale->store_division }}</em>
                             </td>
                         </tr>
                     @endforeach
