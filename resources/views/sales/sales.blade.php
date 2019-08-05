@@ -39,34 +39,17 @@
 
 @section('content')
     <!-- Page Content -->
-    <div class="content" style="width: auto; padding: 2px; margin: 2px;">
-        <div class="my-50 text-center">
-            <h2 class="font-w700 text-black mb-10">Legacy Maintenance Services</h2>
-            <h3 class="h5 text-muted mb-0">Sales / GP Report</h3>
-        </div>
-
-        <!-- Info -->
-        <div class="row justify-content-center">
-            <div class="col-md-6">
-                <div class="block">
-                    <div class="block-content">
-                        <p class="text-muted">
-                            This page showcases how easily you can add a plugin’s JS/CSS assets and init it using custom JS code.
-                        </p>
-                    </div>
-                </div>
-            </div>
-        </div>
+    <div class="content" style="">
         <!-- END Info -->
 
         <!-- Dynamic Table Full -->
-        <div class="block" style="width: 5000px; padding: 2px; margin: 2px;">
-            <div class="block-header block-header-default" style="width: 90%; padding-left: 2px; margin-left: 2px;">
+        <div class="block" >
+            <div class="block-header block-header-default">
                 <h3 class="block-title">Dynamic Table <small>Full</small></h3>
             </div>
-            <div class="block-content block-content-full" style="width: 90%; padding: 2px; margin: 2px;">
+            <div class="block-content block-content-full">
                 <!-- DataTables init on table by adding .js-dataTable-full class, functionality is initialized at the top of this page -->
-                <table class="table table-bordered table-striped table-vcenter js-dataTable-full" style="width: 90%; padding: 2px; margin: 2px;">
+                <table class="table table-bordered table-striped table-vcenter js-dataTable-full">
                     <thead>
                     <tr>
                        <!-- <th class="text-center" style="width: 80px;">#</th> -->
