@@ -60,7 +60,7 @@
         <!-- END Info -->
 
         <!-- Dynamic Table Full -->
-        <div class="block">
+        <div >
             <div class="block-header block-header-default">
                 <h3 class="block-title">Dynamic Table <small>Full</small></h3>
             </div>
