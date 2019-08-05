@@ -39,7 +39,7 @@
 
 @section('content')
     <!-- Page Content -->
-    <div class="content" style="width: 90%;">
+    <div class="content" style="width: 1400px;">
         <div class="my-50 text-center">
             <h2 class="font-w700 text-black mb-10">Legacy Maintenance Services</h2>
             <h3 class="h5 text-muted mb-0">Sales / GP Report</h3>
@@ -60,7 +60,7 @@
         <!-- END Info -->
 
         <!-- Dynamic Table Full -->
-        <div class="block" style="width: 90%;">
+        <div class="block" style="width: 1400px;">
             <div class="block-header block-header-default">
                 <h3 class="block-title">Dynamic Table <small>Full</small></h3>
             </div>
