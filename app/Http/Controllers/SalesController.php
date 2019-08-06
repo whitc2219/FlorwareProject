@@ -16,7 +16,7 @@ class SalesController extends Controller
     {
         //    $this->middleware('auth');
 
-         $this->importCsv();
+        // $this->importCsv();
 
     }
 
