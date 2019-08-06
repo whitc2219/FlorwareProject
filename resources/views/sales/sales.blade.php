@@ -66,7 +66,8 @@
             </div>
             <div class="block-content block-content-full">
                 <!-- DataTables init on table by adding .js-dataTable-full class, functionality is initialized at the top of this page -->
-                <table  >
+                <table style="width: auto">
+                    <!-- class="table table-bordered table-striped table-vcenter js-dataTable-full" -->
                     <thead>
                     <tr>
                        <!-- <th class="text-center" style="width: 80px;">#</th> -->
