@@ -18,7 +18,7 @@ class CreateSalesTable extends Migration
             $table->string('customer_name');
             $table->string('customer_name_2');
             $table->integer('sale_number');
-            $table->date('date_completed');
+            $table->string('date_completed');
             $table->integer('total');
             $table->integer('total_hours');
             $table->integer('total_cost');
