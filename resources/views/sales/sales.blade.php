@@ -39,7 +39,7 @@
 
 @section('content')
     <!-- Page Content -->
-    <div  style="width: 96%; alignment: center" >
+    <div>
         <!--class="content"  this class makes it so tables stay narrow-->
         <div class="my-50 text-center">
             <h2 class="font-w700 text-black mb-10">Legacy Maintenance Services</h2>
@@ -69,7 +69,7 @@
             <div class="block-content block-content-full">
                 <!--class="block-content block-content-full"-->
                 <!-- DataTables init on table by adding .js-dataTable-full class, functionality is initialized at the top of this page -->
-                <table class="table table-bordered table-striped table-vcenter js-dataTable-full" style="width: 100%">
+                <table class="table table-bordered table-striped table-vcenter js-dataTable-full" style="width: 100%; padding: 10px">
                     <!-- class="table table-bordered table-striped table-vcenter js-dataTable-full" -->
                     <thead>
                     <tr>
