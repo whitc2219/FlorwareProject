@@ -39,7 +39,7 @@
 
 @section('content')
     <!-- Page Content -->
-    <div  style="width: 96%; padding: 5px" >
+    <div  style="width: 96%; alignment: center" >
         <!--class="content"  this class makes it so tables stay narrow-->
         <div class="my-50 text-center">
             <h2 class="font-w700 text-black mb-10">Legacy Maintenance Services</h2>
