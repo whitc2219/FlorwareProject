@@ -39,8 +39,8 @@
 
 @section('content')
     <!-- Page Content -->
-    <div class="content" style="width: 100%;">
-        <!--class="content"-->
+    <div  style="width: 90%;">
+        <!--class="content"  this class makes it so tables stay narrow-->
         <div class="my-50 text-center">
             <h2 class="font-w700 text-black mb-10">Legacy Maintenance Services</h2>
             <h3 class="h5 text-muted mb-0">Sales / GP Report</h3>
