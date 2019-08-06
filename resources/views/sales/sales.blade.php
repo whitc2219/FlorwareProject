@@ -61,7 +61,7 @@
         <!-- END Info -->
 
         <!-- Dynamic Table Full -->
-        <div class="block">
+        <div class="block" style="margin: 20px">
             <!--class="block" -->
             <div class="block-header block-header-default">
                 <h3 class="block-title">Dynamic Table <small>Full</small></h3>
@@ -69,7 +69,7 @@
             <div class="block-content block-content-full">
                 <!--class="block-content block-content-full"-->
                 <!-- DataTables init on table by adding .js-dataTable-full class, functionality is initialized at the top of this page -->
-                <table class="table table-bordered table-striped table-vcenter js-dataTable-full" style="width: 100%; padding: 50px">
+                <table class="table table-bordered table-striped table-vcenter js-dataTable-full" style="width: 100%">
                     <!-- class="table table-bordered table-striped table-vcenter js-dataTable-full" -->
                     <thead>
                     <tr>
