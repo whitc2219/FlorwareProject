@@ -35,6 +35,22 @@
             });
         });
     </script>
+
+    <script>
+        $(document).ready(function(){
+            $('#sales-table').DataTable({
+                processing: true,
+                serverSide: true,
+                ajax: '{!! route('datatables.data') !!}',
+                columns: [
+                    { data: 'type', name: 'type' },
+                    { data: 'customer_name', name: 'customer_name' },
+                ]
+            });
+        });
+
+    </script>
+
 @endsection
 
 @section('content')
@@ -71,65 +87,24 @@
                 <!-- DataTables init on table by adding .js-dataTable-full class, functionality is initialized at the top of this page -->
                 <table class="table table-bordered table-striped table-vcenter js-dataTable-full" style="width: 100%">
                     <!-- class="table table-bordered table-striped table-vcenter js-dataTable-full" -->
-                    <thead>
+
+
                     <tr>
                        <!-- <th class="text-center" style="width: 80px;">#</th> -->
                         <th>Type</th>
-                        <th>Customer</th>
-                        <th>Location</th>
-                        <th>Sale No</th>
-                        <th>Date</th>
-                        <th>Billed Amt</th>
-                        <th>Hours</th>
-                        <th>Total Cost</th>
-                        <th>Gross Profit</th>
-                        <th>GP %</th>
-                        <th>Account Mgr</th>
-                        <th>Branch</th>
                         <!-- <th class="d-none d-sm-table-cell" style="width: 30%;">Email</th> -->
                         <!-- <th style="width: 15%;">Registered</th> -->
                     </tr>
                     </thead>
+
                     <tbody>
+
+
 
                     @foreach($sales as $sale)
                         <tr>
-                            <td class="font-w600">
-                                <a href="javascript:void(0)">{{ $sale->type }}</a>
-                            </td>
-                            <td class="d-none d-sm-table-cell">
-                                <em class="text-muted">{{ $sale->customer_name }}</em>
-                            </td>
-                            <td>
-                                <em class="text-muted">{{ $sale->customer_name_2 }}</em>
-                            </td>
-                            <td>
-                                <em class="text-muted">{{ $sale->sale_number }}</em>
-                            </td>
-                            <td>
-                                <em class="text-muted">{{ $sale->date_completed }}</em>
-                            </td>
-                            <td>
-                                <em class="text-muted">{{ $sale->total }}</em>
-                            </td>
-                            <td>
-                                <em class="text-muted">{{ $sale->total_hours }}</em>
-                            </td>
-                            <td>
-                                <em class="text-muted">{{ $sale->total_cost }}</em>
-                            </td>
-                            <td>
-                                <em class="text-muted">{{ $sale->profit }}</em>
-                            </td>
-                            <td>
-                                <em class="text-muted">{{ $sale->margin }}</em>
-                            </td>
-                            <td>
-                                <em class="text-muted">{{ $sale->employee_name }}</em>
-                            </td>
-                            <td>
-                                <em class="text-muted">{{ $sale->store_division }}</em>
-                            </td>
+
+
                         </tr>
                     @endforeach
 

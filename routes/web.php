@@ -25,8 +25,39 @@ Auth::routes();
 Route::get('/home', 'HomeController@index')->name('home');
 
 Route::get('/customers/customers', 'CustomersController@list');
-Route::get('/sales/sales', 'SalesController@list');
 
+
+//Route::get('/sales/sales', 'SalesController@indexDataTables')->name('sales:dt');
+Route::get('sales', ['uses'=>'SalesController@index', 'as'=>'sales.index']);
+
+//Route::get('/sales/sales', 'SalesController@index')->name('sales.index');
+
+
+Route::get('users', ['uses'=>'UserController@index', 'as'=>'users.index']);
+
+//Route::get('sales', 'SalesController@index')->name('sales.index');
+//Route::get('/sales', 'SalesController@getSales')->name('get.sales');
+//Route::get('sales', ['uses'=>'SalesController@getIndex', 'as'=>'get.sales']);
+
+//Route::get('sales', ['uses'=>'SalesController@getSales', 'as'=>'sales.get']);
+
+
+//Route::get ( '/', function () {
+//    $data = Data::all ();
+//    return view ( 'data' )->withData ( $data );
+//} );
+
+//Route::view('/sales/data', 'sales.data');
+
+//Route::get('/sales/sales', 'SalesController@list');
+
+//Route::get('sales', ['uses'=>'SalesController@list', 'as'=>'datatables.data']);
+
+//Route::get('/datatables/orders', array('middleware' => 'auth', 'uses' => 'ProfileController@anyOrders'))->name('datatables.dataOrders');
+//Route::get('/datatables/properties', array('middleware' => 'auth', 'uses' => 'ProfileController@anyProperties'))->name('datatables.dataProperties');
+
+
+//
 
 Route::view('bd_dashboard', 'bd_dashboard');
 Route::view('bd_search', 'bd_search');
