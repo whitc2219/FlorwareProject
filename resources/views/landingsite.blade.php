@@ -219,7 +219,7 @@
                 <!-- HERO IMAGE -->
                 <div class="col-md-5 col-lg-6 col-xl-6 offset-xl-1">
                     <div class="hero-15-img text-center">
-                        <img class="img-fluid" src="images/blue-waves.jpg" alt="hero-image">
+                        <img class="img-fluid" src="images/fwscreen.png" alt="hero-image">
                     </div>
                 </div>
 
@@ -1126,6 +1126,7 @@
 
                                         <h5 class="h5-xs">Marisol19</h5>
 
+                                        
                                         <!-- App Rating -->
                                         <div class="rating">
                                             <i class="fas fa-star"></i>
