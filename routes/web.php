@@ -111,6 +111,7 @@ Route::view('be_comp_chat_multiple', 'be_comp_chat_multiple');
 
 Route::view('be_comp_chat_single', 'be_comp_chat_single');
 
+
 Route::view('be_comp_countto', 'be_comp_countto');
 
 Route::view('be_comp_filtering', 'be_comp_filtering');
