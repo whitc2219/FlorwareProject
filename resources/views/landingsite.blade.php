@@ -149,13 +149,12 @@
                         <li class="nav-item nl-simple"><a class="nav-link" href="#pricing-1">What We Offer</a></li>
                         <li class="nav-item nl-simple"><a class="nav-link" href="#faqs-2">Reviews</a></li>
                         <li class="nav-item nl-simple"><a class="nav-link" href="#faqs-2">Gallery</a></li>
-                        <li class="nav-item nl-simple"><a class="nav-link" href="#blog-1">Contact</a></li>
 
                     </ul>
 
                     <!-- Header Button -->
                     <span class="navbar-text white-color">
-								<a href="#contacts-1" class="btn btn-tra-white yellow-hover">Try For Free</a>
+								<a href="#contacts-1" class="btn btn-tra-white yellow-hover">Contact</a>
 						    </span>
 
                 </div>	<!-- End Navigation Menu -->
