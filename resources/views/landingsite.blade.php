@@ -1126,7 +1126,7 @@
 
                                         <h5 class="h5-xs">Marisol19</h5>
 
-                                        
+
                                         <!-- App Rating -->
                                         <div class="rating">
                                             <i class="fas fa-star"></i>
@@ -1401,6 +1401,7 @@
     </section>	<!-- END FAQs-2 -->
 
 
+    
 
 
     <!-- CALL TO ACTION-2
