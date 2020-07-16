@@ -1558,7 +1558,7 @@
                                                 </button>
                                             </div>
                                         </div>
-                                    </form>
+                                    </form>block-header bg-g
                                 </div>
                             </div>
                             <!-- END Bootstrap Login -->

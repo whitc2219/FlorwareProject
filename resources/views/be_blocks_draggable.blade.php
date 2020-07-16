@@ -1678,6 +1678,7 @@
             If you like, you could also include them separately directly from the assets/js/core folder in the following
             order. That can come in handy if you would like to include a few of them (eg jQuery) from a CDN.
 
+
             assets/js/core/jquery.min.js
             assets/js/core/bootstrap.bundle.min.js
             assets/js/core/simplebar.min.js

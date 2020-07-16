@@ -423,7 +423,7 @@
                             <div class="content-header-item">
                                 <a class="link-effect font-w700" href="index">
                                     <i class="si si-fire text-primary"></i>
-                                    <span class="font-size-xl text-dual-primary-dark">code</span><span class="font-size-xl text-primary">base</span>
+                                    <span class="font-size-xl text-dual-primary-dark">Wyatt</span><span class="font-size-xl text-primary">D</span><span class="font-size-xl text-primary">Coyote</span>
                                 </a>
                             </div>
                             <!-- END Logo -->
@@ -447,7 +447,7 @@
                             </a>
                             <ul class="list-inline mt-10">
                                 <li class="list-inline-item">
-                                    <a class="link-effect text-dual-primary-dark font-size-xs font-w600 text-uppercase" href="be_pages_generic_profile">J. Smith</a>
+                                    <a class="link-effect text-dual-primary-dark font-size-xs font-w600 text-uppercase" href="be_pages_generic_profile">Scioto Ridge</a>
                                 </li>
                                 <li class="list-inline-item">
                                     <!-- Layout API, functionality initialized in Template._uiApiLayout() -->
@@ -1244,7 +1244,7 @@
                         <div class="btn-group" role="group">
                             <button type="button" class="btn btn-rounded btn-dual-secondary" id="page-header-user-dropdown" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
                                 <i class="fa fa-user d-sm-none"></i>
-                                <span class="d-none d-sm-inline-block">J. Smith</span>
+                                <span class="d-none d-sm-inline-block">Scioto Ridge</span>
                                 <i class="fa fa-angle-down ml-5"></i>
                             </button>
                             <div class="dropdown-menu dropdown-menu-right min-width-200" aria-labelledby="page-header-user-dropdown">
@@ -1406,8 +1406,8 @@
                     <div class="bg-pattern bg-black-op-25" style="background-image: url('assets/media/various/bg-pattern.png');">
                         <div class="content content-top text-center">
                             <div class="py-50">
-                                <h1 class="font-w700 text-white mb-10">Blog</h1>
-                                <h2 class="h4 font-w400 text-white-op">Our latest news and learning articles.</h2>
+                                <h1 style="font-size: xx-large" class="font-w700 text-white mb-10">My Timeline</h1>
+                                <h2 class="h4 font-w400 text-white-op">Wyatt Calpin</h2>
                             </div>
                         </div>
                     </div>
@@ -1422,73 +1422,230 @@
                             <div class="mb-50">
                                 <div class="overflow-hidden rounded mb-20" style="height: 200px;">
                                     <a class="img-link" href="be_pages_generic_story">
-                                        <img class="img-fluid" src="assets/media/photos/photo3@2x.jpg" alt="">
+                                        <img class="img-fluid" src="assets/media/photos/neilarmstrong.jpg" alt="">
                                     </a>
                                 </div>
-                                <h3 class="h4 font-w700 text-uppercase mb-5">The new version is now live!</h3>
+                                <div class="mb-50">
+                                <h3 class="h4 font-w700 text-uppercase mb-5">neil armstrong's death</h3>
                                 <div class="text-muted mb-10">
                                     <span class="mr-15">
-                                        <i class="fa fa-fw fa-calendar mr-5"></i>July 16, 2017
+                                        <i class="fa fa-fw fa-calendar mr-5"></i>August 25, 2012
                                     </span>
                                     <a class="text-muted mr-15" href="be_pages_generic_profile">
-                                        <i class="fa fa-fw fa-user mr-5"></i>John Smith
+                                        <i class="fa fa-fw fa-user mr-5"></i>Cincinatti
                                     </a>
                                     <a class="text-muted" href="javascript:void(0)">
-                                        <i class="fa fa-fw fa-tag mr-5"></i>News
+                                        <i class="fa fa-fw fa-tag mr-5"></i>Ohio
                                     </a>
                                 </div>
-                                <p>Dolor posuere proin blandit accumsan senectus netus nullam curae, ornare laoreet adipiscing luctus mauris adipiscing pretium eget fermentum, tristique lobortis est ut metus lobortis tortor tincidunt himenaeos habitant quis dictumst proin odio sagittis purus mi, nec taciti vestibulum quis in sit varius lorem sit metus mi.</p>
-                                <a class="link-effect font-w600" href="be_pages_generic_story">Read More..</a>
+                                <p> Neil Armstrong was the first man on the moon. He managed to do a coin flip in space with Buzz Aldrin to see who would be the first. </p>
+                                <a class="text-muted font-w600" href="be_pages_generic_story">one small step for man one giant leap for mankind</a>
+                            </div>
+                            <div class="overflow-hidden rounded mb-20" style="height: 200px;">
+                                <a class="img-link" href="be_pages_generic_story">
+                                    <img class="img-fluid" src="assets/media/photos/lion.jpg" alt="">
+                                </a>
+                            </div>
+                            <h3 class="h4 font-w700 text-uppercase mb-5">a ton of exotic pets escaped</h3>
+                            <div class="text-muted mb-10">
+                                    <span class="mr-15">
+                                        <i class="fa fa-fw fa-calendar mr-5"></i>October 18, 2011
+                                   </span>
+                                <a class="text-muted mr-15" href="be_pages_generic_profile">
+                                    <i class="fa fa-fw fa-user mr-5"></i>Zanesville
+                                </a>
+                                <a class="text-muted" href="javascript:void(0)">
+                                    <i class="fa fa-fw fa-tag mr-5"></i>Ohio
+                                </a>
+                            </div>
+                            <p>Well this guy had a bunch of lions, tigers and bears. Yeah you guys really DON'T want me to get into specifics, so lets just say this: it did not end well and exotic pets are now illegal in Ohio. </p>
+                            <a class="text-muted" href="be_pages_generic_story">(lions,tigers and bears, oh my!)</a>
+                        </div>
+                        <div class="mb-50">
+                                <div class="overflow-hidden rounded mb-20" style="height: 200px;">
+                                    <a class="img-link" href="be_pages_generic_story">
+                                        <img class="img-fluid" src="assets/media/photos/crew.jpg" alt="">
+                                    </a>
+                                </div>
+                                <h3 class="h4 font-w700 text-uppercase mb-5">save the crew</h3>
+                                <div class="text-muted mb-10">
+                                    <span class="mr-15">
+                                        <i class="fa fa-fw fa-calendar mr-5"></i>October 12, 2018
+                                    </span>
+                                    <a class="text-muted mr-15" href="be_pages_generic_profile">
+                                        <i class="fa fa-fw fa-user mr-5"></i>Columbus
+                                    </a>
+                                    <a class="text-muted" href="javascript:void(0)">
+                                        <i class="fa fa-fw fa-tag mr-5"></i>Ohio
+                                    </a>
+                                </div>
+                                <p>The Crew was going to move to Austin until the owner of the Browns bought them yay!</p>
                             </div>
                             <div class="mb-50">
                                 <div class="overflow-hidden rounded mb-20" style="height: 200px;">
                                     <a class="img-link" href="be_pages_generic_story">
-                                        <img class="img-fluid" src="assets/media/photos/photo7@2x.jpg" alt="">
+                                        <img class="img-fluid" src="assets/media/photos/puntacanaiguana.jpeg" alt="">
                                     </a>
                                 </div>
-                                <h3 class="h4 font-w700 text-uppercase mb-5">How to work from home more efficiently</h3>
+                                <h3 class="h4 font-w700 text-uppercase mb-5">Punta Cana!</h3>
                                 <div class="text-muted mb-10">
                                     <span class="mr-15">
-                                        <i class="fa fa-fw fa-calendar mr-5"></i>July 10, 2017
+                                        <i class="fa fa-fw fa-calendar mr-5"></i>July 27, 2017
                                     </span>
                                     <a class="text-muted mr-15" href="be_pages_generic_profile">
-                                        <i class="fa fa-fw fa-user mr-5"></i>John Smith
+                                        <i class="fa fa-fw fa-user mr-5"></i>Dominican Republic
                                     </a>
                                     <a class="text-muted" href="javascript:void(0)">
-                                        <i class="fa fa-fw fa-tag mr-5"></i>Inpiration
+                                        <i class="fa fa-fw fa-tag mr-5"></i>Grandparents 50th Anniversary
                                     </a>
                                 </div>
-                                <p>Dolor posuere proin blandit accumsan senectus netus nullam curae, ornare laoreet adipiscing luctus mauris adipiscing pretium eget fermentum, tristique lobortis est ut metus lobortis tortor tincidunt himenaeos habitant quis dictumst proin odio sagittis purus mi, nec taciti vestibulum quis in sit varius lorem sit metus mi.</p>
-                                <a class="link-effect font-w600" href="be_pages_generic_story">Read More..</a>
+                                <p>I went to to the Dominican Republic with my entire family. We weren't allowed to drink the water. I had a monkey, 2 parrots, a snake and as you know
+                                    a GIANT iguana on my head! I went parasailing and they tied a couch to the back of a boat and we rode through the water. Also, we rode a banana through the water.</p>
                             </div>
                             <div class="mb-50">
                                 <div class="overflow-hidden rounded mb-20" style="height: 200px;">
                                     <a class="img-link" href="be_pages_generic_story">
-                                        <img class="img-fluid" src="assets/media/photos/photo28@2x.jpg" alt="">
+                                        <img class="img-fluid" src="assets/media/photos/hattie.jpg" alt="">
                                     </a>
                                 </div>
-                                <h3 class="h4 font-w700 text-uppercase mb-5">Travel the world and feel alive</h3>
+                                <h3 class="h4 font-w700 text-uppercase mb-5">Hattie May Calpin</h3>
                                 <div class="text-muted mb-10">
                                     <span class="mr-15">
-                                        <i class="fa fa-fw fa-calendar mr-5"></i>July 5, 2017
+                                        <i class="fa fa-fw fa-calendar mr-5"></i>September 6, 2013
                                     </span>
                                     <a class="text-muted mr-15" href="be_pages_generic_profile">
-                                        <i class="fa fa-fw fa-user mr-5"></i>John Smith
+                                        <i class="fa fa-fw fa-user mr-5"></i>THE WHITE MENACE!
+                                   </a>
+                                    <a class="text-muted" href="javascript:void(0)">
+                                        <i class="fa fa-fw fa-tag mr-5"></i>my puppy doggy
+                                    </a>
+                                </div>
+                                <p> This was my first dog that i got in my lifetime. She LOVES chewing on her toys: hotdog, hedgehog, rope & fish, she loves her ball almost as much as eating her food. She is an english labrador retriever.  </p>
+                                <a class="link-effect font-w600" href="be_pages_generic_story">i love her</a>
+                            </div>
+                            <div class="mb-50">
+                                <div class="overflow-hidden rounded mb-20" style="height: 200px;">
+                                    <a class="img-link" href="be_pages_generic_story">
+                                        <img class="img-fluid" src="assets/media/photos/skydiving.jpg" alt="">
+                                    </a>
+                                </div>
+                                <h3 class="h4 font-w700 text-uppercase mb-5">skydiving!</h3>
+                                <div class="text-muted mb-10">
+                                    <span class="mr-15">
+                                        <i class="fa fa-fw fa-calendar mr-5"></i>August 5, 2018
+                                    </span>
+                                    <a class="text-muted mr-15" href="be_pages_generic_profile">
+                                        <i class="fa fa-fw fa-user mr-5"></i>Chicago
                                     </a>
                                     <a class="text-muted" href="javascript:void(0)">
                                         <i class="fa fa-fw fa-tag mr-5"></i>Travel
                                     </a>
                                 </div>
-                                <p>Dolor posuere proin blandit accumsan senectus netus nullam curae, ornare laoreet adipiscing luctus mauris adipiscing pretium eget fermentum, tristique lobortis est ut metus lobortis tortor tincidunt himenaeos habitant quis dictumst proin odio sagittis purus mi, nec taciti vestibulum quis in sit varius lorem sit metus mi.</p>
-                                <a class="link-effect font-w600" href="be_pages_generic_story">Read More..</a>
+                                <p>This was the 2nd best birthday I've had. It was my 9th. I went to Chicago, I ate at the Candy Factory and went to the Lego Store.
+                                    We rode in a cab, it took us to IFLY where they tossed me in a big tube and turned a big fan on. I flew up real high, especially when I did the high fly, which is where they grab you and shoot you to the top!</p>
+                                <a class="link-effect font-w600" href="be_pages_generic_story"></a>
                             </div>
                             <div class="mb-50">
                                 <div class="overflow-hidden rounded mb-20" style="height: 200px;">
                                     <a class="img-link" href="be_pages_generic_story">
-                                        <img class="img-fluid" src="assets/media/photos/photo30@2x.jpg" alt="">
+                                        <img class="img-fluid" src="assets/media/photos/rose.jpg" alt="">
                                     </a>
                                 </div>
-                                <h3 class="h4 font-w700 text-uppercase mb-5">Believe in your dreams and start working</h3>
+                            <h3 class="h4 font-w700 text-uppercase mb-5">my first beach trip with my cousin rose</h3>
+                            <div class="text-muted mb-10">
+                                    <span class="mr-15">
+                                        <i class="fa fa-fw fa-calendar mr-5"></i>June 16, 2019
+                                    </span>
+                                <a class="text-muted mr-15" href="be_pages_generic_profile">
+                                    <i class="fa fa-fw fa-user mr-5"></i>Avon
+                                </a>
+                                <a class="text-muted" href="javascript:void(0)">
+                                    <i class="fa fa-fw fa-tag mr-5"></i>NC.
+                                </a>
+                            </div>
+                            <p>This was my first beach trip with my baby cousin Rose. She could only crawl, but we had so much fun. We took her to
+                                the beach, she was perplexed by the sand. And we have a pelican statue in the house so we'd say "wheres the birdy" and she would point to the statue even when we got back home she would still point.</p>
+
+                            </div>
+                            <div class="mb-50">
+                                <div class="overflow-hidden rounded mb-20" style="height: 200px;">
+                                    <a class="img-link" href="be_pages_generic_story">
+                                        <img class="img-fluid" src="assets/media/photos/kiss.jpg" alt="">
+                                    </a>
+                                </div>
+                                <h3 class="h4 font-w700 text-uppercase mb-5">my first KISS concert</h3>
+                                <div class="text-muted mb-10">
+                                    <span class="mr-15">
+                                        <i class="fa fa-fw fa-calendar mr-5"></i>March 17, 2019
+                                    </span>
+                                    <a class="text-muted mr-15" href="be_pages_generic_profile">
+                                        <i class="fa fa-fw fa-user mr-5"></i>ROCK 'N' ROLL
+                                    </a>
+                                    <a class="text-muted" href="javascript:void(0)">
+                                        <i class="fa fa-fw fa-tag mr-5"></i>ALL NITE
+                                    </a>
+                                </div>
+                                <p>I went to see KISS at Nationwide Arena. I knew all the songs but 1. It was a blast.</p>
+                            </div>
+                            <div class="mb-50">
+                                <div class="overflow-hidden rounded mb-20" style="height: 200px;">
+                                    <a class="img-link" href="be_pages_generic_story">
+                                        <img class="img-fluid" src="assets/media/photos/baby.jpg" alt="">
+                                    </a>
+                                </div>
+                            <h3 class="h4 font-w700 text-uppercase mb-5">2009   2010   2011   2012   2013   2014   2015   2016   2017   2018   2019</h3>
+                            <div class="text-muted mb-10">
+                                    <span class="mr-15">
+                                        <i class="fa fa-fw fa-calendar mr-5"></i>August 6, 2009
+                                    </span>
+                                <a class="text-muted mr-15" href="be_pages_generic_profile">
+                                    <i class="fa fa-fw fa-user mr-5"></i>Wyatt Calpin
+                                </a>
+                                <a class="text-muted" href="javascript:void(0)">
+                                    <i class="fa fa-fw fa-tag mr-5"></i>Columbus, OH
+                                </a>
+                            </div>
+                            <p>This was the day I was born. My birth announcement was "ready or not here I come".  </p>
+                        </div>
+                            <div class="mb-50">
+                                <div class="overflow-hidden rounded mb-20" style="height: 200px;">
+                                    <a class="img-link" href="be_pages_generic_story">
+                                        <img class="img-fluid" src="assets/media/photos/bus.jpg" alt="">
+                                    </a>
+                                </div>
+                            <h3 class="h4 font-w700 text-uppercase mb-5">first day of elementary school</h3>
+                        <div class="text-muted mb-10">
+                                    <span class="mr-15">
+                                        <i class="fa fa-fw fa-calendar mr-5"></i>August 14, 2015
+                                    </span>
+                                <a class="text-muted mr-15" href="be_pages_generic_profile">
+                                   <i class="fa fa-fw fa-user mr-5"></i>Liberty Tree Elementary
+                                </a>
+                            <a class="text-muted" href="javascript:void(0)">
+                            <i class="fa fa-fw fa-tag mr-5"></i>Monday & Thursday
+                            </a>
+                        </div>
+                            <p>This was my first day of elementary school. I was excited to make new friends at Liberty Tree!
+                        </div>
+                            <div class="mb-50">
+                                <div class="overflow-hidden rounded mb-20" style="height: 200px;">
+                                    <a class="img-link" href="be_pages_generic_story">
+                                        <img class="img-fluid" src="assets/media/photos/snowmbl.jpg" alt="">
+                                    </a>
+                                </div>
+                        <h3 class="h4 font-w700 text-uppercase mb-5">my favorite trip</h3>
+                            <div class="text-muted mb-10">
+                                    <span class="mr-15">
+                                        <i class="fa fa-fw fa-calendar mr-5"></i>March 28, 2019
+                                    </span>
+                          <a class="text-muted mr-15" href="be_pages_generic_profile">
+                        <i class="fa fa-fw fa-user mr-5"></i>Steamboat
+                         </a>
+                         <a class="text-muted" href="javascript:void(0)">
+                                   <i class="fa fa-fw fa-tag mr-5"></i>CO
+                            </a>
+                            </div>
+                                <p>This was my favorite trip ever, because I got to ski all morning and then do something fun all afternoon!</p>
                                 <div class="text-muted mb-10">
                                     <span class="mr-15">
                                         <i class="fa fa-fw fa-calendar mr-5"></i>July 1, 2017
@@ -1500,10 +1657,46 @@
                                         <i class="fa fa-fw fa-tag mr-5"></i>Motivation
                                     </a>
                                 </div>
-                                <p>Dolor posuere proin blandit accumsan senectus netus nullam curae, ornare laoreet adipiscing luctus mauris adipiscing pretium eget fermentum, tristique lobortis est ut metus lobortis tortor tincidunt himenaeos habitant quis dictumst proin odio sagittis purus mi, nec taciti vestibulum quis in sit varius lorem sit metus mi.</p>
-                                <a class="link-effect font-w600" href="be_pages_generic_story">Read More..</a>
                             </div>
-                            <nav class="clearfix push">
+                            <div class="overflow-hidden rounded mb-20" style="height: 200px;">
+                                <a class="img-link" href="be_pages_generic_story">
+                                    <img class="img-fluid" src="assets/media/photos/limo.jpg" alt="">
+                                </a>
+                            </div>
+                            <h3 class="h4 font-w700 text-uppercase mb-5">My Tenth Birthday</h3>
+                            <div class="text-muted mb-10">
+                                    <span class="mr-15">
+                                        <i class="fa fa-fw fa-calendar mr-5"></i>August 11, 2019
+                                    </span>
+                                <a class="text-muted mr-15" href="be_pages_generic_profile">
+                                    <i class="fa fa-fw fa-user mr-5"></i>Axe Throwing
+                                </a>
+                                <a class="text-muted" href="javascript:void(0)">
+                                    <i class="fa fa-fw fa-tag mr-5"></i>Limousine
+                                </a>
+                            </div>
+                            <p>This was by far my favorite birthday, because we had a limousine. And we picked kids up in it and took them to an axe throwing place. But we didn't throw axes we threw baseballs at plates and got tattos!
+                        </div>
+                    <div class="mb-50">
+                        <div class="overflow-hidden rounded mb-20" style="height: 200px;">
+                            <a class="img-link" href="be_pages_generic_story">
+                                <img class="img-fluid" src="assets/media/photos/wyattsanta.jpg" alt="">
+                            </a>
+                        </div>
+                        <h3 class="h4 font-w700 text-uppercase mb-5">my first christmas</h3>
+                        <div class="text-muted mb-10">
+                                    <span class="mr-15">
+                                        <i class="fa fa-fw fa-calendar mr-5"></i>December 25, 2009
+                                    </span>
+                            <a class="text-muted mr-15" href="be_pages_generic_profile">
+                                <i class="fa fa-fw fa-user mr-5"></i>MERRY
+                            </a>
+                            <a class="text-muted" href="javascript:void(0)">
+                                <i class="fa fa-fw fa-tag mr-5"></i>CHRISTMAS
+                            </a>
+                        </div>
+                                <p>This is one of the tens of thousands of pictures of my first christmas (no wonder our storage is full.) I don't even remember it.
+                                    <nav class="clearfix push">
                                 <a class="btn btn-secondary min-width-100 float-right" href="javascript:void(0)">
                                     Next <i class="fa fa-arrow-right ml-5"></i>
                                 </a>

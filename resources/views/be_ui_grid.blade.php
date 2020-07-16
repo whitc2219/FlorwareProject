@@ -1400,7 +1400,7 @@
                 <!-- Page Content -->
                 <div class="content">
                     <!-- Grid -->
-                    <h2 class="content-heading">Grid <small>Columns never collapse</small></h2>
+                    <h2 class="content-heading">jimmy <small>jimmy jimmy jimmy</small></h2>
                     <div class="row text-center">
                         <div class="col-4">
                             <div class="block">
@@ -1427,7 +1427,7 @@
                     <!-- END Grid -->
 
                     <!-- sm Grid -->
-                    <h2 class="content-heading">sm Grid <small>Columns collapse at 576px</small></h2>
+                    <h2 class="content-heading">ddddddd <small>dddddddddddddddddddddddddddddddddddddddd</small></h2>
                     <div class="row text-center">
                         <div class="col-sm-4">
                             <div class="block">
@@ -1454,7 +1454,7 @@
                     <!-- END sm Grid -->
 
                     <!-- md Grid -->
-                    <h2 class="content-heading">md Grid <small>Columns collapse at 768px</small></h2>
+                    <h2 class="content-heading">you put de lime in de coconut <small>and you shake it all about</small></h2>
                     <div class="row text-center">
                         <div class="col-md-4">
                             <div class="block">

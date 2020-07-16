@@ -143,6 +143,8 @@ Route::view('be_forms_elements_material', 'be_forms_elements_material');
 
 Route::view('be_forms_plugins', 'be_forms_plugins');
 
+Route::view('be_forms_plugins_date_range', 'be_forms_plugins_date_range');
+
 Route::view('be_forms_premade', 'be_forms_premade');
 
 Route::view('be_forms_validation', 'be_forms_validation');
