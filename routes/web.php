@@ -11,6 +11,7 @@
 |
 */
 
+
 // Example Routes
 Route::view('/', 'landing');
 Route::match(['get', 'post'], '/dashboard', function(){
