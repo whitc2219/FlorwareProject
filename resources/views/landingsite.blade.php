@@ -187,13 +187,13 @@
                         <!-- List -->
                         <ul class="content-list">
 
-                            <li><p class="p-md">Software designed for floor care professionals
+                            <li><p class="p-md">Family Owned
                                     </p></li>
 
-                            <li><p class="p-md">Reduce mistakes and headaches</p></li>
+                            <li><p class="p-md">Experience, Integrity</p></li>
 
                             <li><p class="p-md">
-                                    Communicate more effectively</p></li>
+                                    Dedication</p></li>
 
                         </ul>
 
