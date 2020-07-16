@@ -110,7 +110,7 @@
 
 
 
-                
+
 
                 <!-- LOGO IMAGE -->
                 <!-- For Retina Ready displays take a image with double the amount of pixels that your image will be displayed (e.g 240 x 60 pixels) -->
@@ -219,7 +219,7 @@
                 <!-- HERO IMAGE -->
                 <div class="col-md-5 col-lg-6 col-xl-6 offset-xl-1">
                     <div class="hero-15-img text-center">
-                        <img class="img-fluid" src="images/fwscreen.png" alt="hero-image">
+                        <img class="img-fluid" src="images/blue-waves.jpg" alt="hero-image">
                     </div>
                 </div>
 
