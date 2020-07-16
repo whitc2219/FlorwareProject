@@ -181,7 +181,7 @@
                     <div class="hero-txt white-color">
 
                         <!-- Title -->
-                        <h2>Make your floor care company more profitable</h2>
+                        <h2>Quality Commercial and Residentail Construction</h2>
 
 
 
