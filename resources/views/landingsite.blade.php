@@ -146,10 +146,10 @@
                             </ul>
                         </li>
 
-                        <li class="nav-item nl-simple"><a class="nav-link" href="#pricing-1">Pricing</a></li>
-                        <li class="nav-item nl-simple"><a class="nav-link" href="#faqs-2">FAQs</a></li>
-                        <li class="nav-item nl-simple"><a class="nav-link" href="#faqs-2">Contact</a></li>
-                        <li class="nav-item nl-simple"><a class="nav-link" href="#blog-1">Sign In</a></li>
+                        <li class="nav-item nl-simple"><a class="nav-link" href="#pricing-1">What We Offer</a></li>
+                        <li class="nav-item nl-simple"><a class="nav-link" href="#faqs-2">Reviews</a></li>
+                        <li class="nav-item nl-simple"><a class="nav-link" href="#faqs-2">Gallery</a></li>
+                        <li class="nav-item nl-simple"><a class="nav-link" href="#blog-1">Contact</a></li>
 
                     </ul>
 
