@@ -26,6 +26,7 @@ Route::get('/home', 'HomeController@index')->name('home');
 
 Route::get('/customers/customers', 'CustomersController@list');
 
+Route::get('/landingsite', 'LandingSiteController@index')->name('landingsite');
 
 //Route::get('/sales/sales', 'SalesController@indexDataTables')->name('sales:dt');
 Route::get('sales', ['uses'=>'SalesController@index', 'as'=>'sales.index']);
