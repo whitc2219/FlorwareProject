@@ -191,24 +191,25 @@
 
 
 
+
                             <!-- BRAND LOGO IMAGE -->
                             <div class="brand-logo">
-                                <img class="img-fluid" src="images/comm1.png" alt="brand-logo" />
+                                <img class="img-fluid" src="images/comm1.png" alt="brand-logo" width="600" height="472"/>
                             </div>
 
                             <!-- BRAND LOGO IMAGE -->
                             <div class="brand-logo">
-                                <img class="img-fluid" src="images/comm2.png" alt="brand-logo" />
+                                <img class="img-fluid" src="images/comm2.png" alt="brand-logo"  width="600" height="472"/>
                             </div>
 
                             <!-- BRAND LOGO IMAGE -->
                             <div class="brand-logo">
-                                <img class="img-fluid" src="images/comm3.png" alt="brand-logo" />
+                                <img class="img-fluid" src="images/comm3.png" alt="brand-logo"  width="600" height="472"/>
                             </div>
 
                             <!-- BRAND LOGO IMAGE -->
                             <div class="brand-logo">
-                                <img class="img-fluid" src="images/comm4.png" alt="brand-logo" />
+                                <img class="img-fluid" src="images/comm4.png" alt="brand-logo"  width="600" height="472"/>
                             </div>
 
 
