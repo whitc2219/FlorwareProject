@@ -244,7 +244,7 @@
                         <div class="owl-carousel brands-carousel">
 
 
-                            
+
 
                             <div class="brand-logo">
                                 <img class="img-fluid" src="images/res1.png" alt="brand-logo" />
@@ -281,8 +281,8 @@
                 <div class="col-md-7 col-lg-6 col-xl-5">
                     <div class="hero-txt white-color">
 
-                        <!-- Title -->
-                        <h2>Build With Us and Realize Your Dreams</h2>
+                        <!-- Title
+                        <h2>Build With Us and Realize Your Dreams</h2>-->
 
 
 
