@@ -172,7 +172,7 @@
     <section id="hero-15" class="bg-scroll hero-section division">
 
 
-        
+
 
         <div id="brands-2" class="brands-section division">
             <div class="container">
@@ -187,7 +187,7 @@
 
                             <!-- BRAND LOGO IMAGE -->
                             <div class="brand-logo">
-                                <img class="img-fluid" src="images/westwood-stairs1.png" alt="brand-logo" />
+                                <img class="img-fluid" style="border-width: thick" src="images/westwood-stairs1.png" alt="brand-logo" />
                             </div>
 
                             <!-- BRAND LOGO IMAGE -->
