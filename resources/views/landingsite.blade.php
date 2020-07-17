@@ -284,7 +284,7 @@
 
 
 
-                        <!-- List -->
+                        <!-- List
                         <ul class="content-list">
 
                             <li><p class="p-md">Family Owned
@@ -295,7 +295,7 @@
                             <li><p class="p-md">
                                     Dedication</p></li>
 
-                        </ul>
+                        </ul>-->
 
 
                         <!-- Buttons -->
@@ -1861,7 +1861,7 @@
                         <h5 class="h5-sm">Subscribe Us:</h5>
 
                         <!-- Text -->
-                        <p class="p-sm m-bottom-20">Stay up to date with our latest news, updates and our new products</p>
+                        <p class="p-sm m-bottom-20">Stay up to date with our latest news, updates and our new projects</p>
 
                         <!-- Newsletter Form Input -->
                         <form class="newsletter-form">
@@ -1891,7 +1891,7 @@
             <div class="bottom-footer">
                 <div class="row">
                     <div class="col-md-12">
-                        <p class="footer-copyright">&copy; 2019 <span>ShiftKey</span>. All Rights Reserved</p>
+                        <p class="footer-copyright">&copy; 2019 <span>Orr Construction</span>. All Rights Reserved</p>
                     </div>
                 </div>
             </div>
