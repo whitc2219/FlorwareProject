@@ -182,7 +182,9 @@
 
 
                         <!-- Title -->
-                        <h4 style="color: white; padding-bottom: 20px;">Commercial Construction</h4>
+                        <h3 style="color: white; padding-bottom: 20px;">Commercial Construction</h3>
+                        <h5 style="color: white; padding-bottom: 20px;">We help businesses achieve goals by building out tailored fitting spaces</h5>
+
 
                         <div class="owl-carousel brands-carousel">
 
