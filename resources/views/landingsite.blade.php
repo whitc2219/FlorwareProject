@@ -462,7 +462,7 @@
                                 <!-- Text -->
                                 <div class="sbox-4-txt">
 
-                                    <h5 class="h5-sm steelblue-color">Custom Cabinets</h5>
+                                    <h5 class="h5-sm steelblue-color">Millwork</h5>
                                     <p class="grey-color">Maecenas laoreet augue egestas laoreet augue egestas, congue gestas
                                         gestas posuere congue ipsum
                                     </p>
@@ -497,7 +497,7 @@
                             <div class="sbox-4 wow fadeInUp" data-wow-delay="0.6s">
 
                                 <!-- Icon -->
-                                <img class="img-70" src="images/icons/wallet-1.png" alt="service-icon" />
+                                <img class="img-70" src="images/icons/idea-4.png" alt="service-icon" />
 
                                 <!-- Text -->
                                 <div class="sbox-4-txt">
@@ -521,7 +521,7 @@
                             <div class="sbox-4 wow fadeInUp" data-wow-delay="0.6s">
 
                                 <!-- Icon -->
-                                <img class="img-70" src="images/icons/wallet-1.png" alt="service-icon" />
+                                <img class="img-70" src="images/icons/invoice.png" alt="service-icon" />
 
                                 <!-- Text -->
                                 <div class="sbox-4-txt">
@@ -541,7 +541,7 @@
                             <div class="sbox-4 wow fadeInUp" data-wow-delay="0.6s">
 
                                 <!-- Icon -->
-                                <img class="img-70" src="images/icons/wallet-1.png" alt="service-icon" />
+                                <img class="img-70" src="images/icons/expand.png" alt="service-icon" />
 
                                 <!-- Text -->
                                 <div class="sbox-4-txt">
@@ -561,7 +561,7 @@
                             <div class="sbox-4 wow fadeInUp" data-wow-delay="0.6s">
 
                                 <!-- Icon -->
-                                <img class="img-70" src="images/icons/wallet-1.png" alt="service-icon" />
+                                <img class="img-70" src="images/icons/file.png" alt="service-icon" />
 
                                 <!-- Text -->
                                 <div class="sbox-4-txt">
@@ -581,7 +581,7 @@
                             <div class="sbox-4 wow fadeInUp" data-wow-delay="0.6s">
 
                                 <!-- Icon -->
-                                <img class="img-70" src="images/icons/wallet-1.png" alt="service-icon" />
+                                <img class="img-70" src="images/icons/web-design.png" alt="service-icon" />
 
                                 <!-- Text -->
                                 <div class="sbox-4-txt">
