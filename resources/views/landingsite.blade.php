@@ -179,7 +179,7 @@
                     <div class="col text-center">
 
                         <!-- Title -->
-                        <p>We partner with companies of all sizes, all around the world</p>
+                        <h4>Commercial Construction</h4>
 
                         <div class="owl-carousel brands-carousel">
 
@@ -297,7 +297,7 @@
 
 
 
-        
+
 
 
 
