@@ -543,7 +543,7 @@
                         <span class="section-id primary-color">Totally Optimized</span>
 
                         <!-- Title -->
-                        <h3 class="h3-md steelblue-color">Organize your online business fast & easily</h3>
+                        <h3 class="h3-md steelblue-color">Design and Construction Solutions Rooted In Quality and Integrity</h3>
 
                         <!-- CONTENT BOX #1 -->
                         <div class="cbox-1">
