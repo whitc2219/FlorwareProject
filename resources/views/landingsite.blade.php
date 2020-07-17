@@ -114,8 +114,8 @@
 
                 <!-- LOGO IMAGE -->
                 <!-- For Retina Ready displays take a image with double the amount of pixels that your image will be displayed (e.g 240 x 60 pixels) -->
-                <a href="#brands-1" class="navbar-brand logo-black"><img src="images/orrlogonew.png" width="190" height="48" alt="header-logo"></a>
-                <a href="#brands-1" class="navbar-brand logo-white"><img src="images/orrlogonew.png" width="190" height="48" alt="header-logo"></a>
+                <a href="#hero-15" class="navbar-brand logo-black"><img src="images/orrlogonew.png" width="190" height="48" alt="header-logo"></a>
+                <a href="#hero-15" class="navbar-brand logo-white"><img src="images/orrlogonew.png" width="190" height="48" alt="header-logo"></a>
 
 
                 <!-- Responsive Menu Button -->
@@ -166,76 +166,78 @@
 
 
 
-    <!-- BRANDS-1
-    ============================================= -->
-    <div id="brands-1" class="brands-section division">
-        <div class="container">
-
-
-            <!-- TEXT -->
-            <div class="row">
-                <div class="col-md-12 text-center mb-10">
-                    <p>We partner with companies of all sizes, all around the world</p>
-                </div>
-            </div>
-
-
-            <!-- BRANDS HOLDER -->
-            <div class="row brands-holder">
-
-                <!-- BRAND LOGO IMAGE -->
-                <div class="col-sm-4 col-lg-2">
-                    <div class="brand-logo">
-                        <img class="img-fluid" src="images/brand-1.png" alt="brand-logo" />
-                    </div>
-                </div>
-
-                <!-- BRAND LOGO IMAGE -->
-                <div class="col-sm-4 col-lg-2">
-                    <div class="brand-logo">
-                        <img class="img-fluid" src="images/brand-2.png" alt="brand-logo" />
-                    </div>
-                </div>
-
-                <!-- BRAND LOGO IMAGE -->
-                <div class="col-sm-4 col-lg-2">
-                    <div class="brand-logo">
-                        <img class="img-fluid" src="images/brand-3.png" alt="brand-logo" />
-                    </div>
-                </div>
-
-                <!-- BRAND LOGO IMAGE -->
-                <div class="col-sm-4 col-lg-2">
-                    <div class="brand-logo">
-                        <img class="img-fluid" src="images/brand-4.png" alt="brand-logo" />
-                    </div>
-                </div>
-
-                <!-- BRAND LOGO IMAGE -->
-                <div class="col-sm-4 col-lg-2">
-                    <div class="brand-logo">
-                        <img class="img-fluid" src="images/brand-5.png" alt="brand-logo">
-                    </div>
-                </div>
-
-                <!-- BRAND LOGO IMAGE -->
-                <div class="col-sm-4 col-lg-2">
-                    <div class="brand-logo">
-                        <img class="img-fluid" src="images/brand-6.png" alt="brand-logo" />
-                    </div>
-                </div>
-
-            </div>   <!-- END BRANDS HOLDER -->
-
-
-        </div>	 <!-- End container -->
-    </div>	 <!-- END BRANDS-1 -->
-
-
 
     <!-- HERO-15
     ============================================= -->
     <section id="hero-15" class="bg-scroll hero-section division">
+
+
+
+        <div id="brands-1" class="brands-section division">
+            <div class="container">
+
+
+                <!-- TEXT -->
+                <div class="row">
+                    <div class="col-md-12 text-center mb-10">
+                        <p>We partner with companies of all sizes, all around the world</p>
+                    </div>
+                </div>
+
+
+                <!-- BRANDS HOLDER -->
+                <div class="row brands-holder">
+
+                    <!-- BRAND LOGO IMAGE -->
+                    <div class="col-sm-4 col-lg-2">
+                        <div class="brand-logo">
+                            <img class="img-fluid" src="images/brand-1.png" alt="brand-logo" />
+                        </div>
+                    </div>
+
+                    <!-- BRAND LOGO IMAGE -->
+                    <div class="col-sm-4 col-lg-2">
+                        <div class="brand-logo">
+                            <img class="img-fluid" src="images/brand-2.png" alt="brand-logo" />
+                        </div>
+                    </div>
+
+                    <!-- BRAND LOGO IMAGE -->
+                    <div class="col-sm-4 col-lg-2">
+                        <div class="brand-logo">
+                            <img class="img-fluid" src="images/brand-3.png" alt="brand-logo" />
+                        </div>
+                    </div>
+
+                    <!-- BRAND LOGO IMAGE -->
+                    <div class="col-sm-4 col-lg-2">
+                        <div class="brand-logo">
+                            <img class="img-fluid" src="images/brand-4.png" alt="brand-logo" />
+                        </div>
+                    </div>
+
+                    <!-- BRAND LOGO IMAGE -->
+                    <div class="col-sm-4 col-lg-2">
+                        <div class="brand-logo">
+                            <img class="img-fluid" src="images/brand-5.png" alt="brand-logo">
+                        </div>
+                    </div>
+
+                    <!-- BRAND LOGO IMAGE -->
+                    <div class="col-sm-4 col-lg-2">
+                        <div class="brand-logo">
+                            <img class="img-fluid" src="images/brand-6.png" alt="brand-logo" />
+                        </div>
+                    </div>
+
+                </div>   <!-- END BRANDS HOLDER -->
+
+
+            </div>	 <!-- End container -->
+        </div>	 <!-- END BRANDS-1 -->
+
+
+
         <div class="container">
             <div class="row">
 
