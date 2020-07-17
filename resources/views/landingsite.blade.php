@@ -356,8 +356,7 @@
                 <div class="col-lg-10 offset-lg-1 section-title">
 
                     <!-- Text -->
-                    <p class="p-md">Aliquam a augue suscipit, luctus neque purus ipsum neque dolor primis
-                        libero at tempus, blandit posuere ligula varius congue cursus porta feugiat
+                    <p class="p-md">Orr Construction is committed to value creation, open dialog and a collaborative approach to every construction project.
                     </p>
 
                 </div>
