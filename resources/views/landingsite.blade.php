@@ -202,11 +202,11 @@
                         <div class="hero-btns mt-30">
 
                             <!-- Button -->
-                            <a href="#" class="btn btn-yellow tra-hover">Request A Demo</a>
+                            <a href="#" class="btn btn-yellow tra-hover">Inquiry</a>
 
                             <!-- Button -->
                             <a href="https://www.youtube.com/embed/7e90gBu4pas" class="video-popup2 btn btn-tra">
-                                Take Quick Tour <i class="far fa-play-circle"></i>
+                                Gallery <i class="far fa-play-circle"></i>
                             </a>
 
                         </div>
@@ -231,7 +231,7 @@
 
 
 
-        
+
 
         <!-- Bottom Wave -->
         <div class="bg-fixed hero-15-wave"></div>
