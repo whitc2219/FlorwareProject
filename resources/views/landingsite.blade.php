@@ -237,6 +237,70 @@
 
 
 
+
+
+        <div id="brands-2" class="brands-section division">
+            <div class="container">
+                <div class="row">
+                    <div class="col text-center">
+
+                        <!-- Title -->
+                        <h4>Residentail Construction</h4>
+
+                        <div class="owl-carousel brands-carousel">
+
+
+                            <!-- BRAND LOGO IMAGE -->
+                            <div class="brand-logo">
+                                <img class="img-fluid" src="images/brand-1.png" alt="brand-logo" />
+                            </div>
+
+                            <!-- BRAND LOGO IMAGE -->
+                            <div class="brand-logo">
+                                <img class="img-fluid" src="images/brand-2.png" alt="brand-logo" />
+                            </div>
+
+                            <!-- BRAND LOGO IMAGE -->
+                            <div class="brand-logo">
+                                <img class="img-fluid" src="images/brand-3.png" alt="brand-logo" />
+                            </div>
+
+                            <!-- BRAND LOGO IMAGE -->
+                            <div class="brand-logo">
+                                <img class="img-fluid" src="images/brand-4.png" alt="brand-logo" />
+                            </div>
+
+                            <!-- BRAND LOGO IMAGE -->
+                            <div class="brand-logo">
+                                <img class="img-fluid" src="images/brand-5.png" alt="brand-logo">
+                            </div>
+
+                            <!-- BRAND LOGO IMAGE -->
+                            <div class="brand-logo">
+                                <img class="img-fluid" src="images/brand-6.png" alt="brand-logo" />
+                            </div>
+
+                            <!-- BRAND LOGO IMAGE -->
+                            <div class="brand-logo">
+                                <img class="img-fluid" src="images/brand-7.png" alt="brand-logo" />
+                            </div>
+
+                            <!-- BRAND LOGO IMAGE -->
+                            <div class="brand-logo">
+                                <img class="img-fluid" src="images/brand-3.png" alt="brand-logo" />
+                            </div>
+
+                            <!-- BRAND LOGO IMAGE -->
+                            <div class="brand-logo">
+                                <img class="img-fluid" src="images/brand-5.png" alt="brand-logo" />
+                            </div>
+
+                        </div>
+                    </div>
+                </div>      <!-- End row -->
+            </div>	    <!-- End container -->
+        </div>	<!-- END BRANDS-2 -->
+
         <div class="container">
             <div class="row">
 
