@@ -599,7 +599,7 @@
                             <div class="sbox-4 wow fadeInUp" data-wow-delay="0.6s">
 
                                 <!-- Icon -->
-                                <img class="img-70" src="images/icons/wallet-1.png" alt="service-icon" />
+                                <img class="img-70" src="images/icons/strategy.png" alt="service-icon" />
 
                                 <!-- Text -->
                                 <div class="sbox-4-txt">
@@ -613,25 +613,6 @@
                             </div>
                         </div>
 
-                        <div class="col-sm-6">
-                            <div class="sbox-4 wow fadeInUp" data-wow-delay="0.6s">
-
-                                <!-- Icon -->
-                                <img class="img-70" src="images/icons/wallet-1.png" alt="service-icon" />
-
-                                <!-- Text -->
-                                <div class="sbox-4-txt">
-
-                                    <h5 class="h5-sm steelblue-color">Design & Build from Scratch Services</h5>
-                                    <p class="grey-color">Maecenas laoreet augue egestas laoreet augue egestas, congue gestas
-                                        volutpat posuere cubilia congue ipsum mauris lectus laoreet gestas neque volutpat and
-                                        gestas posuere congue ipsum
-                                    </p>
-
-                                </div>
-
-                            </div>
-                        </div>
 
 
 
