@@ -114,8 +114,8 @@
 
                 <!-- LOGO IMAGE -->
                 <!-- For Retina Ready displays take a image with double the amount of pixels that your image will be displayed (e.g 240 x 60 pixels) -->
-                <a href="#services-8" class="navbar-brand logo-black"><img src="images/orrlogonew.png" width="190" height="48" alt="header-logo"></a>
-                <a href="#services-8" class="navbar-brand logo-white"><img src="images/orrlogonew.png" width="190" height="48" alt="header-logo"></a>
+                <a href="#brands-1" class="navbar-brand logo-black"><img src="images/orrlogonew.png" width="190" height="48" alt="header-logo"></a>
+                <a href="#brands-1" class="navbar-brand logo-white"><img src="images/orrlogonew.png" width="190" height="48" alt="header-logo"></a>
 
 
                 <!-- Responsive Menu Button -->
@@ -163,6 +163,147 @@
             </div>	  <!-- End container -->
         </nav>	   <!-- End navbar -->
     </header>	<!-- END HEADER -->
+
+
+
+    <!-- BRANDS-1
+    ============================================= -->
+    <div id="brands-1" class="brands-section division">
+        <div class="container">
+
+
+            <!-- TEXT -->
+            <div class="row">
+                <div class="col-md-12 text-center mb-10">
+                    <p>We partner with companies of all sizes, all around the world</p>
+                </div>
+            </div>
+
+
+            <!-- BRANDS HOLDER -->
+            <div class="row brands-holder">
+
+                <!-- BRAND LOGO IMAGE -->
+                <div class="col-sm-4 col-lg-2">
+                    <div class="brand-logo">
+                        <img class="img-fluid" src="images/brand-1.png" alt="brand-logo" />
+                    </div>
+                </div>
+
+                <!-- BRAND LOGO IMAGE -->
+                <div class="col-sm-4 col-lg-2">
+                    <div class="brand-logo">
+                        <img class="img-fluid" src="images/brand-2.png" alt="brand-logo" />
+                    </div>
+                </div>
+
+                <!-- BRAND LOGO IMAGE -->
+                <div class="col-sm-4 col-lg-2">
+                    <div class="brand-logo">
+                        <img class="img-fluid" src="images/brand-3.png" alt="brand-logo" />
+                    </div>
+                </div>
+
+                <!-- BRAND LOGO IMAGE -->
+                <div class="col-sm-4 col-lg-2">
+                    <div class="brand-logo">
+                        <img class="img-fluid" src="images/brand-4.png" alt="brand-logo" />
+                    </div>
+                </div>
+
+                <!-- BRAND LOGO IMAGE -->
+                <div class="col-sm-4 col-lg-2">
+                    <div class="brand-logo">
+                        <img class="img-fluid" src="images/brand-5.png" alt="brand-logo">
+                    </div>
+                </div>
+
+                <!-- BRAND LOGO IMAGE -->
+                <div class="col-sm-4 col-lg-2">
+                    <div class="brand-logo">
+                        <img class="img-fluid" src="images/brand-6.png" alt="brand-logo" />
+                    </div>
+                </div>
+
+            </div>   <!-- END BRANDS HOLDER -->
+
+
+        </div>	 <!-- End container -->
+    </div>	 <!-- END BRANDS-1 -->
+
+
+
+    <!-- HERO-15
+    ============================================= -->
+    <section id="hero-15" class="bg-scroll hero-section division">
+        <div class="container">
+            <div class="row">
+
+
+
+                <!-- HERO TEXT -->
+                <div class="col-md-7 col-lg-6 col-xl-5">
+                    <div class="hero-txt white-color">
+
+                        <!-- Title -->
+                        <h2>Quality Commercial and Residentail Construction</h2>
+
+
+
+                        <!-- List -->
+                        <ul class="content-list">
+
+                            <li><p class="p-md">Family Owned
+                                    </p></li>
+
+                            <li><p class="p-md">Experience, Integrity</p></li>
+
+                            <li><p class="p-md">
+                                    Dedication</p></li>
+
+                        </ul>
+
+
+                        <!-- Buttons -->
+                        <div class="hero-btns mt-30">
+
+                            <!-- Button -->
+                            <a href="#" class="btn btn-yellow tra-hover">Inquiry</a>
+
+                            <!-- Button -->
+                            <a href="https://www.youtube.com/embed/7e90gBu4pas" class="video-popup2 btn btn-tra">
+                                Gallery <i class="far fa-play-circle"></i>
+                            </a>
+
+                        </div>
+
+                    </div>
+                </div>	<!-- END HERO TEXT -->
+
+
+                <!-- HERO IMAGE -->
+                <div class="col-md-5 col-lg-6 col-xl-6 offset-xl-1">
+                    <div class="hero-15-img text-center">
+                        <img class="img-fluid" src="images/fwscreen.png" alt="hero-image">
+                    </div>
+                </div>
+
+
+            </div>    <!-- End row -->
+        </div>     <!-- End container -->
+
+
+
+
+
+
+
+
+        <!-- Bottom Wave -->
+        <div class="bg-fixed hero-15-wave"></div>
+
+
+    </section>	<!-- END HERO-15 -->
 
 
 
@@ -284,81 +425,6 @@
 
         </div>	   <!-- End container -->
     </section>	<!-- END SERVICES-8 -->
-
-    <!-- HERO-15
-    ============================================= -->
-    <section id="hero-15" class="bg-scroll hero-section division">
-        <div class="container">
-            <div class="row">
-
-
-
-                <!-- HERO TEXT -->
-                <div class="col-md-7 col-lg-6 col-xl-5">
-                    <div class="hero-txt white-color">
-
-                        <!-- Title -->
-                        <h2>Quality Commercial and Residentail Construction</h2>
-
-
-
-                        <!-- List -->
-                        <ul class="content-list">
-
-                            <li><p class="p-md">Family Owned
-                                    </p></li>
-
-                            <li><p class="p-md">Experience, Integrity</p></li>
-
-                            <li><p class="p-md">
-                                    Dedication</p></li>
-
-                        </ul>
-
-
-                        <!-- Buttons -->
-                        <div class="hero-btns mt-30">
-
-                            <!-- Button -->
-                            <a href="#" class="btn btn-yellow tra-hover">Inquiry</a>
-
-                            <!-- Button -->
-                            <a href="https://www.youtube.com/embed/7e90gBu4pas" class="video-popup2 btn btn-tra">
-                                Gallery <i class="far fa-play-circle"></i>
-                            </a>
-
-                        </div>
-
-                    </div>
-                </div>	<!-- END HERO TEXT -->
-
-
-                <!-- HERO IMAGE -->
-                <div class="col-md-5 col-lg-6 col-xl-6 offset-xl-1">
-                    <div class="hero-15-img text-center">
-                        <img class="img-fluid" src="images/fwscreen.png" alt="hero-image">
-                    </div>
-                </div>
-
-
-            </div>    <!-- End row -->
-        </div>     <!-- End container -->
-
-
-
-
-
-
-
-
-        <!-- Bottom Wave -->
-        <div class="bg-fixed hero-15-wave"></div>
-
-
-    </section>	<!-- END HERO-15 -->
-
-
-
 
 
 
