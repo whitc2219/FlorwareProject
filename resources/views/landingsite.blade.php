@@ -130,13 +130,15 @@
 
 
 
-                        <!-- Dropdown Link -->
+                        <li class="nav-item nl-simple"><a class="nav-link" href="#contact-2">About</a></li>
+
+                        <!-- Dropdown Link
                         <li class="nav-item dropdown">
                             <a class="nav-link dropdown-toggle" href="#" id="navbarDropdownMenuLink" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
                                 About
-                            </a>
+                            </a> -->
 
-                            <!-- Dropdown Menu -->
+                            <!-- Dropdown Menu
                             <ul class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
                                 <li><a class="dropdown-item" href="#services-8">Our Services</a></li>
                                 <li><a class="dropdown-item" href="#content-7">Why ShiftKey</a></li>
@@ -144,7 +146,7 @@
                                 <li><a class="dropdown-item" href="#statistic-1">Best Solutions</a></li>
                                 <li><a class="dropdown-item" href="#reviews-2">Testimonials</a></li>
                             </ul>
-                        </li>
+                        </li>-->
 
                         <li class="nav-item nl-simple"><a class="nav-link" href="#pricing-1">What We Offer</a></li>
                         <li class="nav-item nl-simple"><a class="nav-link" href="#reviews-2">Reviews</a></li>
@@ -166,7 +168,7 @@
 
 
 
-    
+
 
     <!-- HERO-15
     ============================================= -->
@@ -481,25 +483,22 @@
                     <div class="txt-block pc-30 wow fadeInUp" data-wow-delay="0.4s">
 
                         <!-- Section ID -->
-                        <span class="section-id primary-color">Handling With Ease</span>
+                        <span class="section-id primary-color">Family Owned</span>
 
                         <!-- Title -->
-                        <h3 class="h3-md steelblue-color">Streamline scheduling with FlorWare</h3>
+                        <h3 class="h3-md steelblue-color">About Our Company</h3>
 
                         <!-- Text -->
-                        <p>An enim nullam tempor sapien gravida donec pretium ipsum  porta justo integer at
-                            odio velna vitae auctor integer congue magna purus pretium ligula rutrum luctus
-                            ultrice aliquam a augue suscipit
+                        <p>Chris Orr started at a young age, often working on construction and design projects before he even graduated high school. Upon graduation at Hilliard High School, Chris was accepted into the Columbus College of Art and Design (CCAD) where he studied material sciences, worked with wood metal, glass, studied painting, drawing, and space design. Upon his completion of CCAD he took his hands on experience and combined it with the real world, yet again. Such experience include the building of Churches, Naditoriums, Libraries, Large scale commercial buildings, worked extensively in fire restoration and getting people back “home”. After 10+ years working as a large scale commercial and residential carpentry contractor, he decided to begin his own General Contracting business, Orr Construction Co., out of Columbus, Ohio.
                         </p>
 
                         <!-- Title -->
-                        <h5 class="h5-md steelblue-color">Features Never Stop</h5>
+                        <h5 class="h5-md steelblue-color">Roots In The Community</h5>
 
                         <!-- CONTENT BOX #1 -->
                         <div class="box-list m-top-15">
                             <div class="box-list-icon"><i class="fas fa-genderless"></i></div>
-                            <p>Fringilla risus nec, luctus mauris  orci auctor purus euismod pretium purus
-                                pretium ligula rutrum tempor sapien
+                            <p>Chris comes from a large, hard working family, and has continued to choose central Ohio as the place to raise his family.
                             </p>
                         </div>
 
