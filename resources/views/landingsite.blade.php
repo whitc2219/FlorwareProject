@@ -115,8 +115,8 @@
 
                 <!-- LOGO IMAGE -->
                 <!-- For Retina Ready displays take a image with double the amount of pixels that your image will be displayed (e.g 240 x 60 pixels) -->
-                <a href="#hero-15" class="navbar-brand logo-black"><img src="images/OrrLogo2.png" width="230" height="230" alt="header-logo"></a>
-                <a href="#hero-15" class="navbar-brand logo-white"><img src="images/OrrLogo2.png" width="230" height="230" alt="header-logo"></a>
+                <a href="#hero-15" class="navbar-brand logo-black"><img src="images/OrrLogo2.png" width="90" height="90" alt="header-logo"></a>
+                <a href="#hero-15" class="navbar-brand logo-white"><img src="images/OrrLogo2.png" width="90" height="90" alt="header-logo"></a>
 
 
                 <!-- Responsive Menu Button -->
