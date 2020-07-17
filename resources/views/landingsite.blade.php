@@ -187,12 +187,12 @@
 
                             <!-- BRAND LOGO IMAGE -->
                             <div class="brand-logo">
-                                <img class="img-fluid" style="padding: 0px; margin: 0px; border-style: solid; border-width: thick; border-color: white" src="images/westwood-stairs1.png" alt="brand-logo" />
+                                <img class="img-fluid" style="padding: 0px; margin: 0px; border-style: solid; border-width: thick; border-color: goldenrod" src="images/westwood-stairs1.png" alt="brand-logo" />
                             </div>
 
                             <!-- BRAND LOGO IMAGE -->
                             <div class="brand-logo">
-                                <img class="img-fluid" src="images/brand-2.png" alt="brand-logo" />
+                                <img class="img-fluid" src="images/housesketch.jpg" alt="brand-logo" />
                             </div>
 
                             <!-- BRAND LOGO IMAGE -->
