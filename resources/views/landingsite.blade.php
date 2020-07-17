@@ -527,9 +527,7 @@
                                 <div class="sbox-4-txt">
 
                                     <h5 class="h5-sm steelblue-color">Insurance Remediation</h5>
-                                    <p class="grey-color">Maecenas laoreet augue egestas laoreet augue egestas, congue gestas
-                                        volutpat posuere cubilia congue ipsum mauris lectus laoreet gestas neque volutpat and
-                                        gestas posuere congue ipsum
+                                    <p class="grey-color">Orr Construction Company has the experience necessary to work with you and your insurance company to get your home cleaned up and restored, and get your home (and your life) back to normal.
                                     </p>
 
                                 </div>
