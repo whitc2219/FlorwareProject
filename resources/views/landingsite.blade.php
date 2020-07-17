@@ -179,7 +179,7 @@
                 <div class="row">
                     <div class="col text-center">
 
-                        
+
                         <!-- Title -->
                         <h4 style="color: white; padding-bottom: 20px;">Commercial Construction</h4>
 
@@ -193,7 +193,7 @@
 
                             <!-- BRAND LOGO IMAGE -->
                             <div class="brand-logo">
-                                <img class="img-fluid" src="images/housesketch.jpg" alt="brand-logo" />
+                                <img class="img-fluid" style="padding: 0px; margin: 0px; border-style: solid; border-width: thick; border-color: goldenrod" src="images/housesketch.jpg" alt="brand-logo" />
                             </div>
 
                             <!-- BRAND LOGO IMAGE -->
