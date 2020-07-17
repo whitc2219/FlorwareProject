@@ -1860,7 +1860,7 @@
                 <div class="col-lg-10 offset-lg-1 section-title">
 
                     <!-- Title  -->
-                    <h3 class="h3-md steelblue-color">Send Us A Note!</h3>
+                    <h3 class="h3-md steelblue-color">Tell Us About Your Project!</h3>
 
                     <!-- Text -->
                     <p class="p-md">Thank you for your interest in working with Orr Construction. To get the conversation started, please complete the form below and we'll respond within 24 hours.
