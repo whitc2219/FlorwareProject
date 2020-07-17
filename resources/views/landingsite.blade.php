@@ -187,10 +187,10 @@
                         <div class="owl-carousel brands-carousel">
 
 
-                            
+
                             <!-- BRAND LOGO IMAGE -->
                             <div class="brand-logo">
-                                <img class="img-fluid" src="images/westwood-stairs1.jpg" alt="brand-logo" />
+                                <img class="img-fluid" src="images/westwood-stairs1.png" alt="brand-logo" />
                             </div>
 
                             <!-- BRAND LOGO IMAGE -->
