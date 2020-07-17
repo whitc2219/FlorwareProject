@@ -243,6 +243,7 @@
 
                         <div class="owl-carousel brands-carousel">
 
+                            
 
                             <div class="brand-logo">
                                 <img class="img-fluid" src="images/res1.png" alt="brand-logo" />
@@ -543,7 +544,7 @@
                         <span class="section-id primary-color">Totally Optimized</span>
 
                         <!-- Title -->
-                        <h3 class="h3-md steelblue-color">Design and Construction Solutions Rooted In Quality and Integrity</h3>
+                        <h3 class="h3-md steelblue-color">Construction Solutions Rooted In Quality and Integrity</h3>
 
                         <!-- CONTENT BOX #1 -->
                         <div class="cbox-1">
