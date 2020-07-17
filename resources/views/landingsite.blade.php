@@ -282,12 +282,12 @@
                 </div>	<!-- END HERO TEXT -->
 
 
-                <!-- HERO IMAGE -->
+                <!-- HERO IMAGE
                 <div class="col-md-5 col-lg-6 col-xl-6 offset-xl-1">
                     <div class="hero-15-img text-center">
                         <img class="img-fluid" src="images/fwscreen.png" alt="hero-image">
                     </div>
-                </div>
+                </div>-->
 
 
             </div>    <!-- End row -->
