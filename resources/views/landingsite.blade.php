@@ -374,15 +374,13 @@
                             <div class="sbox-4 wow fadeInUp" data-wow-delay="0.4s">
 
                                 <!-- Icon -->
-                                <img class="img-70" src="images/icons/experiment.png" alt="service-icon" />
+                                <img class="img-70" src="images/icons/pen.png" alt="service-icon" />
 
                                 <!-- Text -->
                                 <div class="sbox-4-txt">
 
                                     <h5 class="h5-sm steelblue-color">Commercial Build-Outs and Renovation</h5>
                                     <p class="grey-color">Maecenas laoreet augue egestas laoreet augue egestas, congue gestas
-                                        volutpat posuere cubilia congue ipsum mauris lectus laoreet gestas neque volutpat and
-                                        gestas posuere congue ipsum
                                     </p>
 
                                 </div>
@@ -396,12 +394,13 @@
                             <div class="sbox-4 wow fadeInUp" data-wow-delay="0.6s">
 
                                 <!-- Icon -->
-                                <img class="img-70" src="images/icons/idea-2.png" alt="service-icon" />
+                                <img class="img-70" src="images/icons/tools.png" alt="service-icon" />
 
                                 <!-- Text -->
                                 <div class="sbox-4-txt">
 
-                                    <h5 class="h5-sm steelblue-color">Help Your Team</h5>
+                                    <h5 class="h5-sm steelblue-color">Residential Remodeling / Additions - Interior and Exterior
+                                    </h5>
                                     <p class="grey-color">Reduce headaches and mistakes by giving your people a tool they can rely on
                                     </p>
 
