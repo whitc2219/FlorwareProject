@@ -637,7 +637,7 @@
                 <!-- IMAGE BLOCK -->
                 <div class="col-md-6">
                     <div class="img-block wow fadeInUp" data-wow-delay="0.6s">
-                        <img class="img-fluid" src="images/hero-1.jpg" alt="content-image">
+                        <img class="img-fluid" src="images/christopherorr.jpg" alt="content-image">
                     </div>
                 </div>
 
