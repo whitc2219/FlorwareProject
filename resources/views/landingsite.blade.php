@@ -130,7 +130,7 @@
 
 
 
-                        <li class="nav-item nl-simple"><a class="nav-link" href="#contact-2">About</a></li>
+                        <li class="nav-item nl-simple"><a class="nav-link" href="#content-2">About</a></li>
 
                         <!-- Dropdown Link
                         <li class="nav-item dropdown">
@@ -483,10 +483,10 @@
                     <div class="txt-block pc-30 wow fadeInUp" data-wow-delay="0.4s">
 
                         <!-- Section ID -->
-                        <span class="section-id primary-color">Family Owned</span>
+                        <span class="section-id primary-color">Our Family, Our Company</span>
 
                         <!-- Title -->
-                        <h3 class="h3-md steelblue-color">About Our Company</h3>
+                        <h3 class="h3-md steelblue-color">About Us</h3>
 
                         <!-- Text -->
                         <p>Chris Orr started at a young age, often working on construction and design projects before he even graduated high school. Upon graduation at Hilliard High School, Chris was accepted into the Columbus College of Art and Design (CCAD) where he studied material sciences, worked with wood metal, glass, studied painting, drawing, and space design. Upon his completion of CCAD he took his hands on experience and combined it with the real world, yet again. Such experience include the building of Churches, Naditoriums, Libraries, Large scale commercial buildings, worked extensively in fire restoration and getting people back “home”. After 10+ years working as a large scale commercial and residential carpentry contractor, he decided to begin his own General Contracting business, Orr Construction Co., out of Columbus, Ohio.
@@ -1072,7 +1072,7 @@
                 <div class="col-lg-10 offset-lg-1 section-title">
 
                     <!-- Title 	-->
-                    <h3 class="h3-md steelblue-color">What Our Customers Are Saying</h3>
+                    <h3 class="h3-md steelblue-color">Customer Testimonials</h3>
 
                     <!-- Text -->
                     <p class="p-md">Aliquam a augue suscipit, luctus neque purus ipsum neque dolor primis
