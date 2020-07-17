@@ -179,8 +179,7 @@
                 <div class="row">
                     <div class="col text-center">
 
-
-
+                        
 
                         <!-- Title -->
                         <h2 style="color: white; padding-bottom: 20px;">Commercial Construction</h2>
@@ -191,7 +190,7 @@
 
 
 
-                            
+
 
                             <!-- BRAND LOGO IMAGE -->
                             <div class="brand-logo">
