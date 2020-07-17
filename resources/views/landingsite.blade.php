@@ -463,7 +463,27 @@
                                 <!-- Text -->
                                 <div class="sbox-4-txt">
 
-                                    <h5 class="h5-sm steelblue-color">Millwork / Custom Cabinets</h5>
+                                    <h5 class="h5-sm steelblue-color">Custom Cabinets</h5>
+                                    <p class="grey-color">Maecenas laoreet augue egestas laoreet augue egestas, congue gestas
+                                        gestas posuere congue ipsum
+                                    </p>
+
+                                </div>
+
+                            </div>
+                        </div>
+
+
+                        <div class="col-sm-6">
+                            <div class="sbox-4 wow fadeInUp" data-wow-delay="0.6s">
+
+                                <!-- Icon -->
+                                <img class="img-70" src="images/icons/wallet-1.png" alt="service-icon" />
+
+                                <!-- Text -->
+                                <div class="sbox-4-txt">
+
+                                    <h5 class="h5-sm steelblue-color">Custom Cabinets</h5>
                                     <p class="grey-color">Maecenas laoreet augue egestas laoreet augue egestas, congue gestas
                                         gestas posuere congue ipsum
                                     </p>
@@ -587,45 +607,6 @@
 
                                     <h5 class="h5-sm steelblue-color">Historic Preservation</h5>
                                     <p class="grey-color">area of expertise which includes such locations as the Davis Cabin, Coffman House, Karrer Barn, and Brunson Condominiums, and Fearing Hall.
-                                    </p>
-
-                                </div>
-
-                            </div>
-                        </div>
-
-                        <div class="col-sm-6">
-                            <div class="sbox-4 wow fadeInUp" data-wow-delay="0.6s">
-
-                                <!-- Icon -->
-                                <img class="img-70" src="images/icons/wallet-1.png" alt="service-icon" />
-
-                                <!-- Text -->
-                                <div class="sbox-4-txt">
-
-                                    <h5 class="h5-sm steelblue-color">Design & Build from Scratch Services</h5>
-                                    <p class="grey-color">Maecenas laoreet augue egestas laoreet augue egestas, congue gestas
-                                        volutpat posuere cubilia congue ipsum mauris lectus laoreet gestas neque volutpat and
-                                        gestas posuere congue ipsum
-                                    </p>
-
-                                </div>
-
-                            </div>
-                        </div>
-                        <div class="col-sm-6">
-                            <div class="sbox-4 wow fadeInUp" data-wow-delay="0.6s">
-
-                                <!-- Icon -->
-                                <img class="img-70" src="images/icons/wallet-1.png" alt="service-icon" />
-
-                                <!-- Text -->
-                                <div class="sbox-4-txt">
-
-                                    <h5 class="h5-sm steelblue-color">Design & Build from Scratch Services</h5>
-                                    <p class="grey-color">Maecenas laoreet augue egestas laoreet augue egestas, congue gestas
-                                        volutpat posuere cubilia congue ipsum mauris lectus laoreet gestas neque volutpat and
-                                        gestas posuere congue ipsum
                                     </p>
 
                                 </div>
