@@ -230,9 +230,8 @@
 
 
 
+
         
-
-
 
         <!-- Bottom Wave -->
         <div class="bg-fixed hero-15-wave"></div>
