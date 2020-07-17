@@ -379,7 +379,7 @@
                                 <div class="sbox-4-txt">
 
                                     <h5 class="h5-sm steelblue-color">Commercial Build-Outs and Renovation</h5>
-                                    <p class="grey-color">Maecenas laoreet augue egestas laoreet augue egestas, congue gestas
+                                    <p class="grey-color">Since we have worked all phases of industrial construction management, our staff is able to handle any industrial construction regardless of size.
                                     </p>
 
                                 </div>
