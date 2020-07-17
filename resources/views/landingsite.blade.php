@@ -414,7 +414,7 @@
                             <div class="sbox-4 wow fadeInUp" data-wow-delay="0.4s">
 
                                 <!-- Icon -->
-                                <img class="img-70" src="images/icons/presentation.png" alt="service-icon" />
+                                <img class="img-70" src="images/icons/chat.png" alt="service-icon" />
 
                                 <!-- Text -->
                                 <div class="sbox-4-txt">
@@ -436,7 +436,7 @@
                             <div class="sbox-4 wow fadeInUp" data-wow-delay="0.6s">
 
                                 <!-- Icon -->
-                                <img class="img-70" src="images/icons/wallet-1.png" alt="service-icon" />
+                                <img class="img-70" src="images/icons/compass-2.png" alt="service-icon" />
 
                                 <!-- Text -->
                                 <div class="sbox-4-txt">
@@ -457,7 +457,7 @@
                             <div class="sbox-4 wow fadeInUp" data-wow-delay="0.6s">
 
                                 <!-- Icon -->
-                                <img class="img-70" src="images/icons/wallet-1.png" alt="service-icon" />
+                                <img class="img-70" src="images/icons/compass.png" alt="service-icon" />
 
                                 <!-- Text -->
                                 <div class="sbox-4-txt">
