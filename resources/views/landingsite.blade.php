@@ -184,7 +184,6 @@
 
 
                         
-
                         <!-- List -->
                         <ul class="content-list">
 
