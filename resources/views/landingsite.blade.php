@@ -387,6 +387,25 @@
                             </div>
                         </div>
 
+                        <!-- SERVICE BOX #3 -->
+                        <div class="col-sm-6">
+                            <div class="sbox-4 wow fadeInUp" data-wow-delay="0.4s">
+
+                                <!-- Icon -->
+                                <img class="img-70" src="images/icons/chat.png" alt="service-icon" />
+
+                                <!-- Text -->
+                                <div class="sbox-4-txt">
+
+                                    <h5 class="h5-sm steelblue-color">Storm Repair</h5>
+                                    <p class="grey-color">Information about storm repair services placeholder
+                                    </p>
+
+                                </div>
+
+                            </div>
+                        </div>
+
 
                         <!-- SERVICE BOX #2 -->
                         <div class="col-sm-6">
@@ -409,24 +428,6 @@
                         </div>
 
 
-                        <!-- SERVICE BOX #3 -->
-                        <div class="col-sm-6">
-                            <div class="sbox-4 wow fadeInUp" data-wow-delay="0.4s">
-
-                                <!-- Icon -->
-                                <img class="img-70" src="images/icons/chat.png" alt="service-icon" />
-
-                                <!-- Text -->
-                                <div class="sbox-4-txt">
-
-                                    <h5 class="h5-sm steelblue-color">Storm Repair</h5>
-                                    <p class="grey-color">Information about storm repair services placeholder
-                                    </p>
-
-                                </div>
-
-                            </div>
-                        </div>
 
 
                         <!-- SERVICE BOX #4 -->
