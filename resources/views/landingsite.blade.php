@@ -186,7 +186,7 @@
 
                             <!-- BRAND LOGO IMAGE -->
                             <div class="brand-logo">
-                                <img class="img-fluid" src="images/brand-1.png" alt="brand-logo" />
+                                <img class="img-fluid" src="images/westwood-stairs1.png" alt="brand-logo" />
                             </div>
 
                             <!-- BRAND LOGO IMAGE -->
