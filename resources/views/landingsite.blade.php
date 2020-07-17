@@ -605,7 +605,7 @@
                                 <div class="sbox-4-txt">
 
                                     <h5 class="h5-sm steelblue-color">Historic Preservation</h5>
-                                    <p class="grey-color">area of expertise which includes such locations as the Davis Cabin, Coffman House, Karrer Barn, and Brunson Condominiums, and Fearing Hall.
+                                    <p class="grey-color">Whether it’s the undoing of multiple renovations, the preservation of period materials, the restoration of woodwork, or even the process of marrying old and new mechanical systems, we’ll work with you and the community to preserve your home and its history.
                                     </p>
 
                                 </div>
