@@ -182,14 +182,14 @@
 
 
                         <!-- Title -->
-                        <h3 style="color: white; padding-bottom: 20px;">Commercial Construction</h3>
+                        <h2 style="color: white; padding-bottom: 20px;">Commercial Construction</h2>
                         <h5 style="color: white; padding-bottom: 20px;">We help businesses achieve goals by building out tailored fitting spaces</h5>
 
 
                         <div class="owl-carousel brands-carousel">
 
 
-                            
+
 
                             <!-- BRAND LOGO IMAGE -->
                             <div class="brand-logo">
@@ -229,7 +229,8 @@
                     <div class="col text-center">
 
                         <!-- Title -->
-                        <h4 style="color: white; padding-bottom: 20px;">Residential Construction</h4>
+                        <h2 style="color: white; padding-bottom: 20px;">Residential Construction</h2>
+                        <h5 style="color: white; padding-bottom: 20px;">We provide full service renovation and remodeling and design consulting</h5>
 
                         <div class="owl-carousel brands-carousel">
 
