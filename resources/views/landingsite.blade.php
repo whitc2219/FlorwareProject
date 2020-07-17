@@ -179,7 +179,7 @@
                     <div class="col text-center">
 
                         <!-- Title -->
-                        <h4>Commercial Construction</h4>
+                        <h4 style="color: white; padding-bottom: 20px;">Commercial Construction</h4>
 
                         <div class="owl-carousel brands-carousel">
 
@@ -209,25 +209,6 @@
                                 <img class="img-fluid" src="images/brand-5.png" alt="brand-logo">
                             </div>
 
-                            <!-- BRAND LOGO IMAGE -->
-                            <div class="brand-logo">
-                                <img class="img-fluid" src="images/brand-6.png" alt="brand-logo" />
-                            </div>
-
-                            <!-- BRAND LOGO IMAGE -->
-                            <div class="brand-logo">
-                                <img class="img-fluid" src="images/brand-7.png" alt="brand-logo" />
-                            </div>
-
-                            <!-- BRAND LOGO IMAGE -->
-                            <div class="brand-logo">
-                                <img class="img-fluid" src="images/brand-3.png" alt="brand-logo" />
-                            </div>
-
-                            <!-- BRAND LOGO IMAGE -->
-                            <div class="brand-logo">
-                                <img class="img-fluid" src="images/brand-5.png" alt="brand-logo" />
-                            </div>
 
                         </div>
                     </div>
@@ -246,7 +227,7 @@
                     <div class="col text-center">
 
                         <!-- Title -->
-                        <h4>Residentail Construction</h4>
+                        <h4 style="color: white; padding-bottom: 20px;">Residential Construction</h4>
 
                         <div class="owl-carousel brands-carousel">
 
@@ -276,25 +257,6 @@
                                 <img class="img-fluid" src="images/brand-5.png" alt="brand-logo">
                             </div>
 
-                            <!-- BRAND LOGO IMAGE -->
-                            <div class="brand-logo">
-                                <img class="img-fluid" src="images/brand-6.png" alt="brand-logo" />
-                            </div>
-
-                            <!-- BRAND LOGO IMAGE -->
-                            <div class="brand-logo">
-                                <img class="img-fluid" src="images/brand-7.png" alt="brand-logo" />
-                            </div>
-
-                            <!-- BRAND LOGO IMAGE -->
-                            <div class="brand-logo">
-                                <img class="img-fluid" src="images/brand-3.png" alt="brand-logo" />
-                            </div>
-
-                            <!-- BRAND LOGO IMAGE -->
-                            <div class="brand-logo">
-                                <img class="img-fluid" src="images/brand-5.png" alt="brand-logo" />
-                            </div>
 
                         </div>
                     </div>
