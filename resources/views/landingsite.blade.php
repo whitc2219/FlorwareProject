@@ -191,10 +191,9 @@
 
 
 
-
                             <!-- BRAND LOGO IMAGE -->
                             <div class="brand-logo">
-                                <img class="img-fluid" src="images/comm1.png" alt="brand-logo" width="600" height="472"/>
+                                <img class="img-fluid" src="images/comm1.png" alt="brand-logo" width="900" height="472"/>
                             </div>
 
                             <!-- BRAND LOGO IMAGE -->
