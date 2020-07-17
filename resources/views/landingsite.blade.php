@@ -829,10 +829,10 @@
 
 
                         <!-- Section ID -->
-                        <span class="section-id primary-color">Beauty of simplicity</span>
+                        <span class="section-id primary-color">Up To The Challenge</span>
 
                         <!-- Title -->
-                        <h3 class="h3-md steelblue-color">We provide wide range of business services</h3>
+                        <h3 class="h3-md steelblue-color">We provide wide range of construction services</h3>
 
                         <!-- CONTENT BOX #1 -->
                         <div class="cbox-1">
