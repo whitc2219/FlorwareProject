@@ -183,7 +183,7 @@
                         <h2>Quality Commercial and Residentail Construction</h2>
 
 
-                        
+
                         <!-- List -->
                         <ul class="content-list">
 
@@ -227,6 +227,7 @@
         </div>     <!-- End container -->
 
 
+        
 
 
 
