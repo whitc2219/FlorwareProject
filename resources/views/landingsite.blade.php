@@ -1192,7 +1192,7 @@
 
                         <!-- Buttons Group -->
                         <div class="btns-group">
-                            <a href="#" class="btn btn-primary-color tra-hover mr-15">Inquire Aboout A Project</a>
+                            <a href="#" class="btn btn-primary-color tra-hover mr-15">Inquire About A Project</a>
                             <a href="#" class="btn btn-tra-white black-hover">References</a>
                         </div>
 
@@ -1482,15 +1482,21 @@
                     <div class="footer-links mb-40">
 
                         <!-- Title -->
-                        <h5 class="h5-sm">Products</h5>
+                        <h5 class="h5-sm">Services</h5>
+
 
                         <!-- Footer List -->
                         <ul class="clearfix">
-                            <li><a href="#">How It Works?</a></li>
-                            <li><a href="#">Integrations</a></li>
-                            <li><a href="#">Product Updates</a></li>
-                            <li><a href="#">Our Pricing</a></li>
-                            <li><a href="#">FAQs</a></li>
+                            <li><a href="#">Commercial</a></li>
+                            <li><a href="#">Residential</a></li>
+                            <li><a href="#">Insurance</a></li>
+                            <li><a href="#">Millwork</a></li>
+                            <li><a href="#">Cabinetry</a></li>
+                            <li><a href="#">Churches</a></li>
+                            <li><a href="#">New Construction</a></li>
+                            <li><a href="#">Custom Design</a></li>
+                            <li><a href="#">Roofing Carpentry</a></li>
+                            <li><a href="#">Historic Preservation</a></li>
                         </ul>
 
                     </div>
@@ -1508,7 +1514,6 @@
                         <ul class="clearfix">
                             <li><a href="#">About Us</a></li>
                             <li><a href="#">Careers</a></li>
-                            <li><a href="#">Press & Media</a></li>
                             <li><a href="#">Our Blog</a></li>
                             <li><a href="#">Advertising</a></li>
                         </ul>
