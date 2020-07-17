@@ -1940,22 +1940,20 @@
 
                         <!-- Footer Logo -->
                         <!-- For Retina Ready displays take a image with double the amount of pixels that your image will be displayed (e.g 350 x 70  pixels) -->
-                        <img src="images/footer-logo.png" width="175" height="35" alt="footer-logo">
+                        <img src="images/OrrLogo2.png" width="175" height="35" alt="footer-logo">
 
                         <!-- Email -->
-                        <p class="foo-email">E: <a href="mailto:yourdomain@mail.com">hello@yourdomain.com</a></p>
+                        <p class="foo-email">E: <a href="mailto:yourdomain@mail.com">christopher@orrconstructionco.com</a></p>
 
                         <!-- Phone -->
-                        <p>P: +12 9 8765 4321</p>
+                        <p>P: 614.679.8779</p>
 
                         <!-- Social Icons -->
                         <div class="footer-socials-links mt-20">
                             <ul class="foo-socials text-center clearfix">
 
                                 <li><a href="#" class="ico-facebook"><i class="fab fa-facebook-f"></i></a></li>
-                                <li><a href="#" class="ico-twitter"><i class="fab fa-twitter"></i></a></li>
-                                <li><a href="#" class="ico-google-plus"><i class="fab fa-google-plus-g"></i></a></li>
-                                <li><a href="#" class="ico-tumblr"><i class="fab fa-tumblr"></i></a></li>
+                                <li><a href="#" class="ico-twitter"><i class="fab fa-instagram"></i></a></li>
 
                                 <!--
                                 <li><a href="#" class="ico-behance"><i class="fab fa-behance"></i></a></li>
