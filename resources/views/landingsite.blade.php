@@ -179,6 +179,7 @@
                 <div class="row">
                     <div class="col text-center">
 
+                        
                         <!-- Title -->
                         <h4 style="color: white; padding-bottom: 20px;">Commercial Construction</h4>
 
