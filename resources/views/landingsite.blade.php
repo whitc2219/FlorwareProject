@@ -167,81 +167,6 @@
 
 
 
-    <!-- HERO-15
-    ============================================= -->
-    <section id="hero-15" class="bg-scroll hero-section division">
-        <div class="container">
-            <div class="row">
-
-
-
-                <!-- HERO TEXT -->
-                <div class="col-md-7 col-lg-6 col-xl-5">
-                    <div class="hero-txt white-color">
-
-                        <!-- Title -->
-                        <h2>Quality Commercial and Residentail Construction</h2>
-
-
-
-                        <!-- List -->
-                        <ul class="content-list">
-
-                            <li><p class="p-md">Family Owned
-                                    </p></li>
-
-                            <li><p class="p-md">Experience, Integrity</p></li>
-
-                            <li><p class="p-md">
-                                    Dedication</p></li>
-
-                        </ul>
-
-
-                        <!-- Buttons -->
-                        <div class="hero-btns mt-30">
-
-                            <!-- Button -->
-                            <a href="#" class="btn btn-yellow tra-hover">Inquiry</a>
-
-                            <!-- Button -->
-                            <a href="https://www.youtube.com/embed/7e90gBu4pas" class="video-popup2 btn btn-tra">
-                                Gallery <i class="far fa-play-circle"></i>
-                            </a>
-
-                        </div>
-
-                    </div>
-                </div>	<!-- END HERO TEXT -->
-
-
-                <!-- HERO IMAGE -->
-                <div class="col-md-5 col-lg-6 col-xl-6 offset-xl-1">
-                    <div class="hero-15-img text-center">
-                        <img class="img-fluid" src="images/fwscreen.png" alt="hero-image">
-                    </div>
-                </div>
-
-
-            </div>    <!-- End row -->
-        </div>     <!-- End container -->
-
-
-
-
-
-
-
-
-        <!-- Bottom Wave -->
-        <div class="bg-fixed hero-15-wave"></div>
-
-
-    </section>	<!-- END HERO-15 -->
-
-
-
-
     <!-- SERVICES-8
     ============================================= -->
     <section id="services-8" class="pt-80 pb-50 services-section division">
@@ -359,6 +284,82 @@
 
         </div>	   <!-- End container -->
     </section>	<!-- END SERVICES-8 -->
+
+
+    <!-- HERO-15
+    ============================================= -->
+    <section id="hero-15" class="bg-scroll hero-section division">
+        <div class="container">
+            <div class="row">
+
+
+
+                <!-- HERO TEXT -->
+                <div class="col-md-7 col-lg-6 col-xl-5">
+                    <div class="hero-txt white-color">
+
+                        <!-- Title -->
+                        <h2>Quality Commercial and Residentail Construction</h2>
+
+
+
+                        <!-- List -->
+                        <ul class="content-list">
+
+                            <li><p class="p-md">Family Owned
+                                    </p></li>
+
+                            <li><p class="p-md">Experience, Integrity</p></li>
+
+                            <li><p class="p-md">
+                                    Dedication</p></li>
+
+                        </ul>
+
+
+                        <!-- Buttons -->
+                        <div class="hero-btns mt-30">
+
+                            <!-- Button -->
+                            <a href="#" class="btn btn-yellow tra-hover">Inquiry</a>
+
+                            <!-- Button -->
+                            <a href="https://www.youtube.com/embed/7e90gBu4pas" class="video-popup2 btn btn-tra">
+                                Gallery <i class="far fa-play-circle"></i>
+                            </a>
+
+                        </div>
+
+                    </div>
+                </div>	<!-- END HERO TEXT -->
+
+
+                <!-- HERO IMAGE -->
+                <div class="col-md-5 col-lg-6 col-xl-6 offset-xl-1">
+                    <div class="hero-15-img text-center">
+                        <img class="img-fluid" src="images/fwscreen.png" alt="hero-image">
+                    </div>
+                </div>
+
+
+            </div>    <!-- End row -->
+        </div>     <!-- End container -->
+
+
+
+
+
+
+
+
+        <!-- Bottom Wave -->
+        <div class="bg-fixed hero-15-wave"></div>
+
+
+    </section>	<!-- END HERO-15 -->
+
+
+
 
 
 
