@@ -189,30 +189,26 @@
                         <div class="owl-carousel brands-carousel">
 
 
+                            
 
                             <!-- BRAND LOGO IMAGE -->
                             <div class="brand-logo">
-                                <img class="img-fluid" src="images/westwood-stairs1.png" alt="brand-logo" />
+                                <img class="img-fluid" src="images/comm1.png" alt="brand-logo" />
                             </div>
 
                             <!-- BRAND LOGO IMAGE -->
                             <div class="brand-logo">
-                                <img class="img-fluid" src="images/housesketch.jpg" alt="brand-logo" />
+                                <img class="img-fluid" src="images/comm2.png" alt="brand-logo" />
                             </div>
 
                             <!-- BRAND LOGO IMAGE -->
                             <div class="brand-logo">
-                                <img class="img-fluid" src="images/brand-3.png" alt="brand-logo" />
+                                <img class="img-fluid" src="images/comm3.png" alt="brand-logo" />
                             </div>
 
                             <!-- BRAND LOGO IMAGE -->
                             <div class="brand-logo">
-                                <img class="img-fluid" src="images/brand-4.png" alt="brand-logo" />
-                            </div>
-
-                            <!-- BRAND LOGO IMAGE -->
-                            <div class="brand-logo">
-                                <img class="img-fluid" src="images/brand-5.png" alt="brand-logo">
+                                <img class="img-fluid" src="images/comm4.png" alt="brand-logo" />
                             </div>
 
 
@@ -238,29 +234,23 @@
                         <div class="owl-carousel brands-carousel">
 
 
-                            <!-- BRAND LOGO IMAGE -->
                             <div class="brand-logo">
-                                <img class="img-fluid" src="images/brand-1.png" alt="brand-logo" />
+                                <img class="img-fluid" src="images/res1.png" alt="brand-logo" />
                             </div>
 
                             <!-- BRAND LOGO IMAGE -->
                             <div class="brand-logo">
-                                <img class="img-fluid" src="images/brand-2.png" alt="brand-logo" />
+                                <img class="img-fluid" src="images/res2.png" alt="brand-logo" />
                             </div>
 
                             <!-- BRAND LOGO IMAGE -->
                             <div class="brand-logo">
-                                <img class="img-fluid" src="images/brand-3.png" alt="brand-logo" />
+                                <img class="img-fluid" src="images/res3.png" alt="brand-logo" />
                             </div>
 
                             <!-- BRAND LOGO IMAGE -->
                             <div class="brand-logo">
-                                <img class="img-fluid" src="images/brand-4.png" alt="brand-logo" />
-                            </div>
-
-                            <!-- BRAND LOGO IMAGE -->
-                            <div class="brand-logo">
-                                <img class="img-fluid" src="images/brand-5.png" alt="brand-logo">
+                                <img class="img-fluid" src="images/res4.png" alt="brand-logo" />
                             </div>
 
 
