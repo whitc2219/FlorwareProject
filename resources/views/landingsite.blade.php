@@ -147,7 +147,7 @@
                         </li>
 
                         <li class="nav-item nl-simple"><a class="nav-link" href="#pricing-1">What We Offer</a></li>
-                        <li class="nav-item nl-simple"><a class="nav-link" href="#faqs-2">Reviews</a></li>
+                        <li class="nav-item nl-simple"><a class="nav-link" href="#reviews-2">Reviews</a></li>
                         <li class="nav-item nl-simple"><a class="nav-link" href="#faqs-2">Gallery</a></li>
 
                     </ul>
@@ -179,7 +179,7 @@
                 <div class="row">
                     <div class="col text-center">
 
-                        
+
 
                         <!-- Title -->
                         <h2 style="color: white; padding-bottom: 20px;">Commercial Construction</h2>
@@ -276,7 +276,7 @@
                     <div class="hero-txt white-color">
 
                         <!-- Title -->
-                        <h2>Quality Commercial and Residentail Construction</h2>
+                        <h2>Build With Us and Realize Your Dreams</h2>
 
 
 
