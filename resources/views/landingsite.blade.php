@@ -1348,7 +1348,7 @@
                     <div class="cta-txt text-center">
 
                         <!-- Title -->
-                        <h3 class="h3-xs">Create better experiences with ShiftKey</h3>
+                        <h3 class="h3-xs">We Are Committed To Your Satisfaction</h3>
 
                         <!-- Text -->
                         <p class="p-md">Feugiat eros, ac tincidunt ligula massa in faucibus orci luctus et ultrices
@@ -1358,8 +1358,8 @@
 
                         <!-- Buttons Group -->
                         <div class="btns-group">
-                            <a href="#" class="btn btn-primary-color tra-hover mr-15">Request Free Trial</a>
-                            <a href="#" class="btn btn-tra-white black-hover">Buy For Only $6.99</a>
+                            <a href="#" class="btn btn-primary-color tra-hover mr-15">Inquire Aboout A Project</a>
+                            <a href="#" class="btn btn-tra-white black-hover">References</a>
                         </div>
 
                     </div>
