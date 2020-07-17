@@ -1443,7 +1443,7 @@
 
                         <!-- Footer Logo -->
                         <!-- For Retina Ready displays take a image with double the amount of pixels that your image will be displayed (e.g 350 x 70  pixels) -->
-                        <img src="images/OrrLogo2.png" width="190" height="190" alt="footer-logo">
+                        <img src="images/OrrLogo2.png" width="110" height="110" alt="footer-logo">
 
                         <!-- Email -->
                         <p class="foo-email">E: <a href="mailto:yourdomain@mail.com">christopher@orrconstructionco.com</a></p>
