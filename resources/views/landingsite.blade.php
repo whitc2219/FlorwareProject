@@ -25,12 +25,12 @@
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge"/>
     <meta name="author" content="DSAThemes"/>
-    <meta name="description" content="ShiftKey - Software & Startup Premium Landing Page Template"/>
-    <meta name="keywords" content="Responsive, HTML5 Template, DSAThemes, One Page, Landing, Startup, Software, Business, Company, Corporate, Creative, Freelancers">
+    <meta name="description" content="Orr Construction"/>
+    <meta name="keywords" content="Construction, Renovation, Remodeling">
     <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
 
     <!-- SITE TITLE -->
-    <title>ShiftKey - Software & Startup Premium Landing Page Template</title>
+    <title>Orr Construction Company</title>
 
     <!-- FAVICON AND TOUCH ICONS  -->
     <link rel="shortcut icon" href="images/favicon.ico" type="image/x-icon">
@@ -398,9 +398,9 @@
                                 <!-- Text -->
                                 <div class="sbox-4-txt">
 
-                                    <h5 class="h5-sm steelblue-color">Residential Remodeling / Additions - Interior and Exterior
+                                    <h5 class="h5-sm steelblue-color">Interior and Exterior Residential Remodeling
                                     </h5>
-                                    <p class="grey-color">Reduce headaches and mistakes by giving your people a tool they can rely on
+                                    <p class="grey-color">Whether it’s a small remodeling project or the construction of a new home, from conception to completion, Orr Construction can help you with your next project.
                                     </p>
 
                                 </div>
@@ -420,9 +420,7 @@
                                 <div class="sbox-4-txt">
 
                                     <h5 class="h5-sm steelblue-color">Storm Repair</h5>
-                                    <p class="grey-color">Maecenas laoreet augue egestas laoreet augue egestas, congue gestas
-                                        volutpat posuere cubilia congue ipsum mauris lectus laoreet gestas neque volutpat and
-                                        gestas posuere congue ipsum
+                                    <p class="grey-color">Information about storm repair services placeholder
                                     </p>
 
                                 </div>
@@ -477,7 +475,7 @@
                             <div class="sbox-4 wow fadeInUp" data-wow-delay="0.6s">
 
                                 <!-- Icon -->
-                                <img class="img-70" src="images/icons/wallet-1.png" alt="service-icon" />
+                                <img class="img-70" src="images/icons/graphic-design.png" alt="service-icon" />
 
                                 <!-- Text -->
                                 <div class="sbox-4-txt">
