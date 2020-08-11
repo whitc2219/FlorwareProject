@@ -170,7 +170,6 @@
 
                     <span class="fa-stack fa-2x">
   <i class="fas fa-circle-thin fa-stack-2x"></i>
-  <i class="fas fa-lock fa-stack-1x fa-inverse"></i>
 </span>
 
                 </div>	<!-- End Navigation Menu -->
