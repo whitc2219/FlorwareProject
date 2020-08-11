@@ -406,7 +406,7 @@
                                 <div class="sbox-4-txt">
 
                                     <h5 class="h5-sm steelblue-color">Roofing and Storm Repair</h5>
-                                    <p class="grey-color">Information about storm repair services placeholder
+                                    <p class="grey-color">If you suspect any damage to your roof, contact us today to get a free roof inspection! We can handle any sized job.
                                     </p>
 
                                 </div>
