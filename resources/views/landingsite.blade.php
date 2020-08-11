@@ -737,9 +737,7 @@
 
                             <!-- Text -->
                             <div class="cbox-1-txt grey-color">
-                                <p>An enim nullam tempor sapien gravida donec pretium and ipsum porta justo integer
-                                    at velna vitae auctor integer congue a magna ipsum purus pretium ligula rutrum
-                                    luctus ultrice. Aliquam a augue suscipit, luctus neque purus ipsum neque dolor feugiat
+                                <p>Orr Construction has years of experience helping municipalities build better communities from the ground up and have successfully completed a number of construction projects for municipalities throughout Central Ohio.
                                 </p>
                             </div>
 
