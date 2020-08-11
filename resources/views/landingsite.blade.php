@@ -161,8 +161,8 @@
                      <!-- Header Button -->
                     <span class="navbar-text white-color">
 								<a href="#contacts-1" class="btn btn-tra-white yellow-hover">Contact</a>
-                        <a style="color: white; padding-left: 20px; padding-right: 15px; padding-top: 10px;" href="https://www.facebook.com/Orr-Construction-Co-127958977227738/" class="ico-facebook"><i class="fab fa-facebook-f fa-1.5x"></i></a>
-                        <a style="color: white; padding-right: 15px; padding-top: 10px;" href="#" class="ico-twitter"><i class="fab fa-instagram fa-1.5x"></i></a>
+                        <a style="color: black; padding-left: 20px; padding-right: 15px; padding-top: 10px;" href="https://www.facebook.com/Orr-Construction-Co-127958977227738/" class="ico-facebook"><i class="fab fa-facebook-f fa-1.5x"></i></a>
+                        <a style="color: black; padding-right: 15px; padding-top: 10px;" href="#" class="ico-twitter"><i class="fab fa-instagram fa-1.5x"></i></a>
 						    </span>
 
                 </div>	<!-- End Navigation Menu -->
@@ -313,7 +313,7 @@
 
                             <!-- Button -->
                             <a href="https://www.youtube.com/embed/7e90gBu4pas" class="video-popup2 btn btn-tra">
-                                Galleryx <i class="far fa-play-circle"></i>
+                                Gallery <i class="far fa-play-circle"></i>
                             </a>
 
                         </div>
