@@ -315,7 +315,7 @@
                             <a href="#" class="btn btn-yellow tra-hover">Inquiry</a>
 
                             <!-- Button -->
-                            <a href="https://www.youtube.com/embed/7e90gBu4pas" class="video-popup2 btn btn-tra">
+                            <a href="https://www.youtube.com/watch?v=sh-4lEHEU8o" class="video-popup2 btn btn-tra">
                                 Gallery <i class="far fa-play-circle"></i>
                             </a>
 
