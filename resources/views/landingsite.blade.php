@@ -589,7 +589,7 @@
                                 <div class="sbox-4-txt">
 
                                     <h5 class="h5-sm steelblue-color">Vanilla Box Work</h5>
-                                    <p class="grey-color">including working with property ,agents and real estate brokers to help owners transfer a space into a lease-able space.
+                                    <p class="grey-color">Including working with property agents and real estate brokers to help owners transfer a space into a lease-able space.
                                     </p>
 
                                 </div>
