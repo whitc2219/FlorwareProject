@@ -724,9 +724,7 @@
 
                             <!-- Text -->
                             <div class="cbox-1-txt grey-color">
-                                <p>Velna iaculis odio auctor integer congue impedit magna viverra at dolor vitae
-                                    donec mauris lectus laoreet gestas neque undo luctus feugiat. Justo integer at
-                                    odio velna vitae auctor integer congue
+                                <p>Since 1991, Orr Construction has been relentless in the timely execution of high quality building and remodeling projects, regardless of complexity, size or budget.
                                 </p>
                             </div>
 
@@ -850,9 +848,7 @@
 
                             <!-- Text -->
                             <div class="cbox-1-txt grey-color">
-                                <p>Velna iaculis odio auctor integer congue impedit magna viverra at dolor vitae
-                                    donec mauris lectus laoreet gestas neque undo luctus feugiat. Justo integer at
-                                    odio velna vitae auctor integer congue
+                                <p>Orr Construction Company provides professional construction services to residential, institutional and commercial clients in the Columbus, the Central Ohio community & beyond.
                                 </p>
                             </div>
 
