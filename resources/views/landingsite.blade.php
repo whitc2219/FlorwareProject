@@ -313,7 +313,7 @@
 
                             <!-- Button -->
                             <a href="https://www.youtube.com/embed/7e90gBu4pas" class="video-popup2 btn btn-tra">
-                                Gallery <i class="far fa-play-circle"></i>
+                                Galleryx <i class="far fa-play-circle"></i>
                             </a>
 
                         </div>
