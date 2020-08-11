@@ -711,7 +711,7 @@
                     <div class="txt-block pc-30 wow fadeInUp" data-wow-delay="0.4s">
 
                         <!-- Section ID -->
-                        <span class="section-id primary-color">Totally Optimized</span>
+                        <span class="section-id primary-color">Orr Construction</span>
 
                         <!-- Title -->
                         <h3 class="h3-md steelblue-color">Construction Solutions Rooted In Quality and Integrity</h3>
@@ -840,7 +840,7 @@
                         <span class="section-id primary-color">Up To The Challenge</span>
 
                         <!-- Title -->
-                        <h3 class="h3-md steelblue-color">We provide wide range of construction services</h3>
+                        <h3 class="h3-md steelblue-color">Orr Construction provides wide range of construction services</h3>
 
                         <!-- CONTENT BOX #1 -->
                         <div class="cbox-1">
@@ -917,7 +917,7 @@
                     <h3 class="h3-md steelblue-color">Customer Testimonials</h3>
 
                     <!-- Text -->
-                    <p class="p-md">Our success comes from four generations of  experience and our unrelenting dedication to building great buildings and long-term relationships with our clients and partners. That's why the majority of our work is referral based.
+                    <p class="p-md">At Orr Construction, our success comes from four generations of  experience and our unrelenting dedication to building great buildings and long-term relationships with our clients and partners. That's why the majority of our work is referral based.
                     </p>
 
                 </div>
