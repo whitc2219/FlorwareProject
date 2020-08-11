@@ -683,8 +683,7 @@
                         <!-- CONTENT BOX #3 -->
                         <div class="box-list">
                             <div class="box-list-icon"><i class="fas fa-genderless"></i></div>
-                            <p>Nemo ipsam egestas volute turpis dolores ut aliquam quaerat sodales sapien
-                                undo pretium purus
+                            <p>His talents in all phases of construction, combined with his natural leadership skills and creativity has earned Christopher a reputation as a leader in the construction industry.
                             </p>
                         </div>
 
