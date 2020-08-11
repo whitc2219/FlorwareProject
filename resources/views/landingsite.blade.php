@@ -449,9 +449,9 @@
                                 <div class="sbox-4-txt">
 
                                     <h5 class="h5-sm steelblue-color">Roofing Carpentry</h5>
-                                    <p class="grey-color">Maecenas laoreet augue egestas laoreet augue egestas, congue gestas
-                                        volutpat posuere cubilia congue ipsum mauris lectus laoreet gestas neque volutpat and
-                                        gestas posuere congue ipsum
+                                    <p class="grey-color">From start to finish in every roofing project, our highest priority is to provide the best quality workmanship, best materials, on schedule, on budget, and at the best prices, no matter the size of the project.
+
+
                                     </p>
 
                                 </div>
