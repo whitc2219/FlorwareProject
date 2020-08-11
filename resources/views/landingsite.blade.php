@@ -655,7 +655,7 @@
                     <div class="txt-block pc-30 wow fadeInUp" data-wow-delay="0.4s">
 
                         <!-- Section ID -->
-                        <span class="section-id primary-color">Our Family, Our Company</span>
+                        <span class="section-id primary-color">Orr Construction - Our Family, Our Company</span>
 
                         <!-- Title -->
                         <h3 class="h3-md steelblue-color">About Us</h3>
@@ -917,8 +917,7 @@
                     <h3 class="h3-md steelblue-color">Customer Testimonials</h3>
 
                     <!-- Text -->
-                    <p class="p-md">Aliquam a augue suscipit, luctus neque purus ipsum neque dolor primis
-                        libero at tempus, blandit posuere ligula varius congue cursus porta feugiat
+                    <p class="p-md">Our success comes from four generations of  experience and our unrelenting dedication to building great buildings and long-term relationships with our clients and partners. That's why the majority of our work is referral based.
                     </p>
 
                 </div>
