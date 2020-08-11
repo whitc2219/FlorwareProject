@@ -153,15 +153,15 @@
                         <li class="nav-item nl-simple"><a class="nav-link" href="#reviews-2">Reviews</a></li>
                         <li class="nav-item nl-simple"><a class="nav-link" href="#faqs-2">Gallery</a></li>
 
+                        <li><a href="#" class="ico-facebook"><i size="2x" class="fab fa-facebook-f"></i></a></li>
+                        <li><a href="#" class="ico-twitter"><i class="fab fa-instagram"></i></a></li>
+
                     </ul>
 
                     <!-- Header Button -->
                     <span class="navbar-text white-color">
 								<a href="#contacts-1" class="btn btn-tra-white yellow-hover">Contact</a>
 						    </span>
-
-                    <li><a href="#" class="ico-facebook"><i class="fab fa-facebook-f"></i></a></li>
-                    <li><a href="#" class="ico-twitter"><i class="fab fa-instagram"></i></a></li>
 
                 </div>	<!-- End Navigation Menu -->
 
