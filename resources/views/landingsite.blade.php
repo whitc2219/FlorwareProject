@@ -837,10 +837,10 @@
 
 
                         <!-- Section ID -->
-                        <span class="section-id primary-color">Up To The Challenge</span>
+                        <span class="section-id primary-color">Orr Construction - Up To The Challenge</span>
 
                         <!-- Title -->
-                        <h3 class="h3-md steelblue-color">Orr Construction provides wide range of construction services</h3>
+                        <h3 class="h3-md steelblue-color">We provide a wide range of construction services</h3>
 
                         <!-- CONTENT BOX #1 -->
                         <div class="cbox-1">
