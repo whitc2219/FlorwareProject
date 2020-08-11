@@ -168,9 +168,9 @@
                         <a style="padding-right: 15px; padding-top: 10px;" href="#" class="ico-twitter"><i class="fab fa-instagram fa-1.5x"></i></a>
 						    </span>
 
-                    <span class="fa-stack fa-2x">
-  <i class="fas fa-circle-thin fa-stack-2x"></i>
-</span>
+                    <a class="facebook-share-button social-icons" href="#" target="_blank">
+                        <i class="fab fa-facebook socialicons"></i>
+                    </a>
 
                 </div>	<!-- End Navigation Menu -->
 
