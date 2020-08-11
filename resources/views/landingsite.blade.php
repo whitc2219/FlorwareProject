@@ -782,7 +782,7 @@
                     <div class="video-preview text-center">
 
                         <!-- Change the link HERE!!! -->
-                        <a class="video-popup1" href="https://www.youtube.com/watch?v=tA5giyG8E7g">
+                        <a class="" href="https://www.youtube.com/watch?v=tA5giyG8E7g">
 
                             <!-- Play Icon -->
                             <div class="video-btn play-icon-tra">
