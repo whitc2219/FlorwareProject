@@ -158,6 +158,7 @@
 
                      </ul>
 
+
                      <!-- Header Button -->
                     <span class="navbar-text white-color">
 								<a href="#contacts-1" class="btn btn-tra-white yellow-hover">Contact</a>
