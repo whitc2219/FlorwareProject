@@ -195,7 +195,7 @@
 
                         <!-- Title -->
                         <h2 style="color: white; padding-bottom: 20px;">Commercial Construction</h2>
-                        <h5 style="color: white; padding-bottom: 20px;">We help businesses achieve goals by building out tailored fitting spaces</h5>
+                        <h5 style="color: white; padding-bottom: 20px;">Working with local governments on construction projects requires a special knowledge of approvals processes and specifications required - such as accessibility and safety standards. Working with local governments also requires the know how to keep construction projects on time and on budget.</h5>
 
 
                         <div class="owl-carousel brands-carousel">
@@ -470,8 +470,7 @@
                                 <div class="sbox-4-txt">
 
                                     <h5 class="h5-sm steelblue-color">Millwork & Custom Cabinets</h5>
-                                    <p class="grey-color">Maecenas laoreet augue egestas laoreet augue egestas, congue gestas
-                                        gestas posuere congue ipsum
+                                    <p class="grey-color">From production to custom millwork and from laminate to high-end wood, whatever you’re looking for we’ll build and install it on time.
                                     </p>
 
                                 </div>
@@ -510,7 +509,7 @@
                                 <div class="sbox-4-txt">
 
                                     <h5 class="h5-sm steelblue-color">Design & Build from Scratch Services</h5>
-                                    <p class="grey-color">Maecenas laoreet augue egestas laoreet augue egestas, congue gestas
+                                    <p class="grey-color">Dream it. Design it. Biuild it. From production to custom millwork and from laminate to high-end wood, whatever you’re looking for we’ll build and install it on time.s laoreet augue egestas, congue gestas
                                         volutpat posuere cubilia congue ipsum mauris lectus laoreet gestas neque volutpat and
                                         gestas posuere congue ipsum
                                     </p>
@@ -747,7 +746,7 @@
                         <div class="tools-list mt-15">
 
                             <!-- Text -->
-                            <h5 class="h5-xs">Technologies We Use:</h5>
+                            <h5 class="h5-xs">A selection of brands we’re proud to partner with on our projects:</h5>
 
                             <!-- Icons -->
                             <i class="fab fa-html5"></i>
