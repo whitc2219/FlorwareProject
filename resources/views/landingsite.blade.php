@@ -772,8 +772,8 @@
     <!-- VIDEO-3
     ============================================= -->
     <div id="video-3" class="video-section division">
+        <span class="section-id primary-color">Sample Construction Video</span>
         <div class="container">
-            <span class="section-id primary-color">Sample Construction Video</span>
             <div class="row">
 
 
