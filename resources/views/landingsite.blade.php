@@ -569,9 +569,7 @@
                                 <div class="sbox-4-txt">
 
                                     <h5 class="h5-sm steelblue-color">New Construction and Additions</h5>
-                                    <p class="grey-color">Maecenas laoreet augue egestas laoreet augue egestas, congue gestas
-                                        volutpat posuere cubilia congue ipsum mauris lectus laoreet gestas neque volutpat and
-                                        gestas posuere congue ipsum
+                                    <p class="grey-color">We make sure that the new room, makeover or addition you have in mind is fully and clearly understood in ours. Because we’re not happy unless you’re happy. That’s what has made us an proven remodeling contractor.
                                     </p>
 
                                 </div>
