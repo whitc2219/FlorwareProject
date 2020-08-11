@@ -773,21 +773,21 @@
     ============================================= -->
     <div id="video-3" class="video-section division">
         <div class="container">
+            <span class="section-id primary-color">Sample Construction Video</span>
             <div class="row">
 
 
                 <!-- VIDEO LINK -->
-                <span class="section-id primary-color">Sample Construction Video</span>
                 <div class="col-md-12">
                     <div class="video-preview text-center">
 
                         <!-- Change the link HERE!!! -->
-                        <a class="video-popup1" href="https://www.youtube.com/watch?v=sh-4lEHEU8o">
+                        <a class="video-popup1" href="https://www.youtube.com/watch?v=tA5giyG8E7g">
 
                             <!-- Play Icon -->
                             <div class="video-btn play-icon-tra">
                                 <div class="video-block-wrapper">
-                                    <i class="fas fa-play" href="https://www.youtube.com/watch?v=sh-4lEHEU8o"></i>
+                                    <i class="fas fa-play" ></i>
                                 </div>
                             </div>
 
