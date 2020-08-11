@@ -509,9 +509,7 @@
                                 <div class="sbox-4-txt">
 
                                     <h5 class="h5-sm steelblue-color">Design & Build from Scratch Services</h5>
-                                    <p class="grey-color">Dream it. Design it. Biuild it. From production to custom millwork and from laminate to high-end wood, whatever you’re looking for we’ll build and install it on time.s laoreet augue egestas, congue gestas
-                                        volutpat posuere cubilia congue ipsum mauris lectus laoreet gestas neque volutpat and
-                                        gestas posuere congue ipsum
+                                    <p class="grey-color">Dream it. Design it. Biuild it. The wide variety of work we have successfully completed has allowed us to develop the master craftsmanship and expertise to take on the most challenging custom designs.
                                     </p>
 
                                 </div>
