@@ -489,7 +489,7 @@
                                 <!-- Text -->
                                 <div class="sbox-4-txt">
 
-                                    <h5 class="h5-sm steelblue-color">Custom Cabinets</h5>
+                                    <h5 class="h5-sm steelblue-color">General Carpentry</h5>
                                     <p class="grey-color">Maecenas laoreet augue egestas laoreet augue egestas, congue gestas
                                         gestas posuere congue ipsum
                                     </p>
@@ -1215,149 +1215,6 @@
 
 
 
-    <!-- BLOG-1
-    ============================================= -->
-    <section id="blog-1" class="wide-60 blog-section division">
-        <div class="container">
-
-
-            <!-- SECTION TITLE -->
-            <div class="row">
-                <div class="col-lg-10 offset-lg-1 section-title">
-
-                    <!-- Title 	-->
-                    <h3 class="h3-lg">Our Stories & Latest News</h3>
-
-                    <!-- Text -->
-                    <p class="p-md">Aliquam a augue suscipit, luctus neque purus ipsum neque dolor primis
-                        libero at tempus, blandit posuere ligula varius congue cursus porta feugiat
-                    </p>
-
-                </div>
-            </div>
-
-
-            <!-- BLOG POSTS HOLDER -->
-            <div class="row primary-theme">
-
-
-                <!-- BLOG POST #1 -->
-                <div class="col-md-6 col-lg-4">
-                    <div class="blog-post wow fadeInUp" data-wow-delay="0.4s">
-
-                        <!-- BLOG POST IMAGE -->
-                        <div class="blog-post-img">
-
-                            <!-- Post Category -->
-                            <div class="post-category"><p>News</p></div>
-
-                            <!-- Image -->
-                            <img class="img-fluid" src="images/blog/post-1-img.jpg" alt="blog-post-image" />
-
-                            <!-- Author Avatar -->
-                            <div class="blog-post-avatar">
-                                <img src="images/post-author-1.jpg" alt="author-avatar">
-                            </div>
-
-                        </div>
-
-                        <!-- BLOG POST TEXT -->
-                        <div class="blog-post-txt">
-
-                            <!-- Post Data -->
-                            <p class="post-meta">Posted by <span>J.Delaney</span> on April 12, 2019</p>
-
-                            <!-- Link -->
-                            <a href="single-post.html">Egestas volute nemo ipsam and turpis quaerat sodales a sapien landit tempor
-                                vitae sapien a donec ipsum
-                            </a>
-
-                        </div>
-
-                    </div>
-                </div>	<!-- END  BLOG POST #1 -->
-
-
-                <!-- BLOG POST #2 -->
-                <div class="col-md-6 col-lg-4">
-                    <div class="blog-post wow fadeInUp" data-wow-delay="0.6s">
-
-                        <!-- BLOG POST IMAGE -->
-                        <div class="blog-post-img">
-
-                            <!-- Post Category -->
-                            <div class="post-category"><p>Features</p></div>
-
-                            <!-- Image -->
-                            <img class="img-fluid" src="images/blog/post-2-img.jpg" alt="blog-post-image" />
-
-                            <!-- Author Avatar -->
-                            <div class="blog-post-avatar">
-                                <img src="images/post-author-2.jpg" alt="author-avatar">
-                            </div>
-
-                        </div>
-
-                        <!-- BLOG POST TEXT -->
-                        <div class="blog-post-txt">
-
-                            <!-- Post Data -->
-                            <p class="post-meta">Posted by <span>E.Martinez</span> on April 06, 2019</p>
-
-                            <!-- Link -->
-                            <a href="single-post.html">Aliqum mullam a blandit tempor undo sapien gravida donec ipsum, and porta magna.
-                                Velna auctor eros congue justo vitae at impedit tempor congu
-                            </a>
-
-                        </div>
-
-                    </div>
-                </div>	<!-- END  BLOG POST #2 -->
-
-
-                <!-- BLOG POST #3 -->
-                <div class="col-md-6 col-lg-4">
-                    <div class="blog-post wow fadeInUp" data-wow-delay="0.8s">
-
-                        <!-- BLOG POST IMAGE -->
-                        <div class="blog-post-img">
-
-                            <!-- Post Category -->
-                            <div class="post-category"><p>News</p></div>
-
-                            <!-- Image -->
-                            <img class="img-fluid" src="images/blog/post-3-img.jpg" alt="blog-post-image" />
-
-                            <!-- Author Avatar -->
-                            <div class="blog-post-avatar">
-                                <img src="images/post-author-3.jpg" alt="author-avatar">
-                            </div>
-
-                        </div>
-
-                        <!-- BLOG POST TEXT -->
-                        <div class="blog-post-txt">
-
-                            <!-- Post Data -->
-                            <p class="post-meta">Posted by <span>Marisol19</span> on April 02, 2019</p>
-
-                            <!-- Link -->
-                            <a href="single-post.html">Aliquam a augue suscipit, luctus neque purus an ipsum neque and dolor primis libero
-                                a egestas tempus posuere
-                            </a>
-
-                        </div>
-
-                    </div>
-                </div>	<!-- END  BLOG POST #3 -->
-
-
-            </div>	<!-- END BLOG POSTS HOLDER -->
-
-
-        </div>	   <!-- End container -->
-    </section>	<!-- END BLOG-1 -->
-
 
 
 
@@ -1525,7 +1382,6 @@
                         <ul class="clearfix">
                             <li><a href="#">About Us</a></li>
                             <li><a href="#">Careers</a></li>
-                            <li><a href="#">Our Blog</a></li>
                             <li><a href="#">Partnership</a></li>
                         </ul>
 
