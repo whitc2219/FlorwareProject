@@ -549,9 +549,7 @@
                                 <div class="sbox-4-txt">
 
                                     <h5 class="h5-sm steelblue-color">Church Renovations</h5>
-                                    <p class="grey-color">Maecenas laoreet augue egestas laoreet augue egestas, congue gestas
-                                        volutpat posuere cubilia congue ipsum mauris lectus laoreet gestas neque volutpat and
-                                        gestas posuere congue ipsum
+                                    <p class="grey-color">Orr Construction provides complete Church remodeling and renovation services. A great church renovation experience doesn’t happen by accident, it starts by establishing a solid relationship, clear communication with our clients, meeting their expectations, exploring ideas, detailed planning and effective implementation.
                                     </p>
 
                                 </div>
