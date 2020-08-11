@@ -152,6 +152,8 @@
                         <li class="nav-item nl-simple"><a class="nav-link" href="#services-8">What We Offer</a></li>
                         <li class="nav-item nl-simple"><a class="nav-link" href="#reviews-2">Reviews</a></li>
                         <li class="nav-item nl-simple"><a class="nav-link" href="#faqs-2">Gallery</a></li>
+                        <li><a href="#" class="ico-facebook"><i class="fab fa-facebook-f"></i></a></li>
+                        <li><a href="#" class="ico-twitter"><i class="fab fa-instagram"></i></a></li>
 
                     </ul>
 
@@ -461,7 +463,7 @@
                                 <!-- Text -->
                                 <div class="sbox-4-txt">
 
-                                    <h5 class="h5-sm steelblue-color">Millwork</h5>
+                                    <h5 class="h5-sm steelblue-color">Millwork & Custom Cabinets</h5>
                                     <p class="grey-color">Maecenas laoreet augue egestas laoreet augue egestas, congue gestas
                                         gestas posuere congue ipsum
                                     </p>
