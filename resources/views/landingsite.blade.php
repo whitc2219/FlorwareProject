@@ -1192,9 +1192,7 @@
                         <h3 class="h3-xs">We Are Committed To Your Satisfaction</h3>
 
                         <!-- Text -->
-                        <p class="p-md">Feugiat eros, ac tincidunt ligula massa in faucibus orci luctus et ultrices
-                            posuere cubilia curae integer congue leo metus, eu mollis lorem primis in orci integer
-                            metus mollis faucibus
+                        <p class="p-md">For every project, from kitchen remodels, historic preservations, insurance restorations, or tenant improvements for our commercial clients, Orr Construction holds to its outstanding reputation of skilled craftsmanship, responsiveness and transparency which ultimately results in a value-built project that allows our clients to achieve success.
                         </p>
 
                         <!-- Buttons Group -->
