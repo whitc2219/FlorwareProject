@@ -787,7 +787,7 @@
                             <!-- Play Icon -->
                             <div class="video-btn play-icon-tra">
                                 <div class="video-block-wrapper">
-                                    <i class="fas fa-play"></i>
+                                    <i class="fas fa-play" href="https://www.youtube.com/watch?v=sh-4lEHEU8o"></i>
                                 </div>
                             </div>
 
