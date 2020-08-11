@@ -777,11 +777,12 @@
 
 
                 <!-- VIDEO LINK -->
+                <span class="section-id primary-color">Sample Construction Video</span>
                 <div class="col-md-12">
                     <div class="video-preview text-center">
 
                         <!-- Change the link HERE!!! -->
-                        <a class="video-popup1" href="https://www.youtube.com/embed/SZEflIVnhH8">
+                        <a class="video-popup1" href="https://www.youtube.com/watch?v=sh-4lEHEU8o">
 
                             <!-- Play Icon -->
                             <div class="video-btn play-icon-tra">
