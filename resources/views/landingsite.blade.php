@@ -153,8 +153,8 @@
                         <li class="nav-item nl-simple"><a class="nav-link" href="#reviews-2">Reviews</a></li>
                         <li class="nav-item nl-simple"><a class="nav-link" href="#faqs-2">Gallery</a></li>
 
-                        <li><a href="#" class="ico-facebook"><i size="2x" class="fab fa-facebook-f"></i></a></li>
-                        <li><a href="#" class="ico-twitter"><i class="fab fa-instagram"></i></a></li>
+                        <li><a href="#" class="ico-facebook"><i class="fab fa-facebook-f icon-2x"></i></a></li>
+                        <li><a href="#" class="ico-twitter"><i class="fab fa-instagram icon-2x"></i></a></li>
 
                     </ul>
 
