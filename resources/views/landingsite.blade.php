@@ -153,8 +153,8 @@
                         <li class="nav-item nl-simple"><a class="nav-link" href="#reviews-2">Reviews</a></li>
                         <li class="nav-item nl-simple"><a class="nav-link" href="#faqs-2">Gallery</a></li>
 
-                        <li><a style="color: white; padding-right: 10px; padding-top: 6px;" href="#" class="ico-facebook"><i class="fab fa-facebook-f"></i></a></li>
-                        <li><a style="color: white; padding-top: 6px;" href="#" class="ico-twitter"><i class="fab fa-instagram fa-2x"></i></a></li>
+                        <li><a style="color: white; padding-right: 10px; padding-top: 6px;" href="https://www.facebook.com/Orr-Construction-Co-127958977227738/" class="ico-facebook"><i class="fab fa-facebook-f fa-2x"></i></a></li>
+                        <li><a style="color: white; padding-right: 10px; padding-top: 6px;" href="#" class="ico-twitter"><i class="fab fa-instagram fa-2x"></i></a></li>
 
                     </ul>
 
