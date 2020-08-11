@@ -397,7 +397,7 @@
                                 <!-- Text -->
                                 <div class="sbox-4-txt">
 
-                                    <h5 class="h5-sm steelblue-color">Storm Repair</h5>
+                                    <h5 class="h5-sm steelblue-color">Roofing and Storm Repair</h5>
                                     <p class="grey-color">Information about storm repair services placeholder
                                     </p>
 
@@ -653,7 +653,7 @@
                         <h3 class="h3-md steelblue-color">About Us</h3>
 
                         <!-- Text -->
-                        <p>Chris Orr started at a young age, often working on construction and design projects before he even graduated high school. Upon graduation at Hilliard High School, Chris was accepted into the Columbus College of Art and Design (CCAD) where he studied material sciences, worked with wood metal, glass, studied painting, drawing, and space design. Upon his completion of CCAD he took his hands on experience and combined it with the real world, yet again. Such experience include the building of Churches, Naditoriums, Libraries, Large scale commercial buildings, worked extensively in fire restoration and getting people back “home”. After 10+ years working as a large scale commercial and residential carpentry contractor, he decided to begin his own General Contracting business, Orr Construction Co., out of Columbus, Ohio.
+                        <p>Chris Orr started at a young age, often working on construction and design projects before he even graduated high school. Upon graduation at Hilliard High School, Chris was accepted into the Columbus College of Art and Design (CCAD) where he studied material sciences, worked with wood metal, glass, studied painting, drawing, and space design. Upon his completion of CCAD he took his hands on experience and combined it with the real world, yet again. Such experience include the building of Churches, Naditoriums, Libraries, Large scale commercial buildings, worked extensively in fire restoration and getting people back “home”. He also studied under a master italian cabinet maker. After 10+ years working as a large scale commercial and residential carpentry contractor, he decided to begin his own General Contracting business, Orr Construction Co., out of Columbus, Ohio.
                         </p>
 
                         <!-- Title -->
@@ -669,7 +669,7 @@
                         <!-- CONTENT BOX #2 -->
                         <div class="box-list">
                             <div class="box-list-icon"><i class="fas fa-genderless"></i></div>
-                            <p>Quaerat sodales sapien undo euismod purus blandit</p>
+                            <p>He loves spending time volunteering with the local schools and parent groups.</p>
                         </div>
 
                         <!-- CONTENT BOX #3 -->
@@ -1436,7 +1436,7 @@
             <!-- FOOTER CONTENT -->
             <div class="row">
 
-                
+
 
 
 
@@ -1498,7 +1498,7 @@
                             <li><a href="#">Churches</a></li>
                             <li><a href="#">New Construction</a></li>
                             <li><a href="#">Custom Design</a></li>
-                            <li><a href="#">Roofing Carpentry</a></li>
+                            <li><a href="#">Complete Carpentry</a></li>
                             <li><a href="#">Historic Preservation</a></li>
                         </ul>
 
@@ -1518,7 +1518,7 @@
                             <li><a href="#">About Us</a></li>
                             <li><a href="#">Careers</a></li>
                             <li><a href="#">Our Blog</a></li>
-                            <li><a href="#">Advertising</a></li>
+                            <li><a href="#">Partnership</a></li>
                         </ul>
 
                     </div>
