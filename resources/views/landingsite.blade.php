@@ -155,8 +155,8 @@
 
                         <!-- <li><a style="color: white; padding-right: 15px; padding-top: 10px;" href="https://www.facebook.com/Orr-Construction-Co-127958977227738/" class="ico-facebook"><i class="fab fa-facebook-f fa-1.5x"></i></a></li>
                          <li><a style="color: white; padding-right: 15px; padding-top: 10px;" href="#" class="ico-twitter"><i class="fab fa-instagram fa-1.5x"></i></a></li>-->
-                        <li class="nav-item nl-simple"><a href="#" style="padding-left: 20px; padding-right: 15px; border-top: 30px;" class="ico-facebook"><i class="fab fa-facebook-f fa-sm" ></i></a></li>
-                        <li class="nav-item nl-simple"><a href="#" style="alignment: bottom; padding-left: 1px; padding-right: 15px; margin-top: 30px;" class="ico-twitter"><i class="fab fa-instagram fa-sm"></i></a></li>
+                        <li class="nav-item nl-simple"><a href="#" style="padding-left: 20px; padding-right: 15px; border-top: 30px;" class="ico-facebook"><i class="fab fa-facebook-f fa-lg" ></i></a></li>
+                        <li class="nav-item nl-simple"><a href="#" style="alignment: bottom; padding-left: 1px; padding-right: 15px; margin-top: 30px;" class="ico-twitter"><i class="fab fa-instagram fa-lg"></i></a></li>
 
                      </ul>
 
