@@ -784,7 +784,7 @@
                     <div class="video-preview text-center">
 
                         <!-- Change the link HERE!!! -->
-                        <a class="video-popup1" href="https://www.youtube.com/watch?v=5Abd9vefh0g">
+                        <a class="video-popup1" href="https://www.videezy.com/people/4069-construction-workers">
 
                             <!-- Play Icon -->
                             <div class="video-btn play-icon-tra">

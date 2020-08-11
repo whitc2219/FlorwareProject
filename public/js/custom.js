@@ -139,7 +139,7 @@
 					patterns: {
 						youtube: {			   
 							index: 'youtube.com',
-							src: 'https://www.youtube.com/watch?v=5Abd9vefh0g'
+							src: 'https://www.videezy.com/people/4069-construction-workers'
 								}
 							}
 						}		  		  
