@@ -1358,8 +1358,7 @@
                             <li><a href="#">Commercial</a></li>
                             <li><a href="#">Residential</a></li>
                             <li><a href="#">Insurance</a></li>
-                            <li><a href="#">Millwork</a></li>
-                            <li><a href="#">Cabinetry</a></li>
+                            <li><a href="#">Millwork / Cabinetry</a></li>
                             <li><a href="#">Churches</a></li>
                             <li><a href="#">New Construction</a></li>
                             <li><a href="#">Custom Design</a></li>
