@@ -945,7 +945,7 @@
                                     <!-- Author Data -->
                                     <div class="review-author">
 
-                                        <h5 class="h5-xs">pebz13</h5>
+                                        <h5 class="h5-xs">Holy Love</h5>
 
                                         <!-- App Rating -->
                                         <div class="rating">
@@ -984,7 +984,7 @@
                                     <!-- Author Data -->
                                     <div class="review-author">
 
-                                        <h5 class="h5-xs">Evelyn Martinez</h5>
+                                        <h5 class="h5-xs">Yellow Brick Pizza</h5>
 
                                         <!-- App Rating -->
                                         <div class="rating">
@@ -1023,7 +1023,7 @@
                                     <!-- Author Data -->
                                     <div class="review-author">
 
-                                        <h5 class="h5-xs">Joel Peterson</h5>
+                                        <h5 class="h5-xs">Marietta College</h5>
 
                                         <!-- App Rating -->
                                         <div class="rating">
@@ -1062,7 +1062,7 @@
                                     <!-- Author Data -->
                                     <div class="review-author">
 
-                                        <h5 class="h5-xs">Marisol19</h5>
+                                        <h5 class="h5-xs">600 Goodale</h5>
 
 
                                         <!-- App Rating -->
@@ -1102,7 +1102,7 @@
                                     <!-- Author Data -->
                                     <div class="review-author">
 
-                                        <h5 class="h5-xs">Isabel M.</h5>
+                                        <h5 class="h5-xs">Exel Logistics</h5>
 
                                         <!-- App Rating -->
                                         <div class="rating">
@@ -1142,7 +1142,7 @@
                                     <!-- Author Data -->
                                     <div class="review-author">
 
-                                        <h5 class="h5-xs">Tosha Wisdom</h5>
+                                        <h5 class="h5-xs">Church Of The Redeemer</h5>
 
                                         <!-- App Rating -->
                                         <div class="rating">
