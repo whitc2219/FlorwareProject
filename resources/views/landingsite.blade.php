@@ -155,8 +155,8 @@
 
                         <!-- <li><a style="color: white; padding-right: 15px; padding-top: 10px;" href="https://www.facebook.com/Orr-Construction-Co-127958977227738/" class="ico-facebook"><i class="fab fa-facebook-f fa-1.5x"></i></a></li>
                          <li><a style="color: white; padding-right: 15px; padding-top: 10px;" href="#" class="ico-twitter"><i class="fab fa-instagram fa-1.5x"></i></a></li>-->
-                        <li><a href="#" style="color: lightgoldenrodyellow; padding-left: 20px; padding-right: 15px; padding-top: 10px;" class="ico-facebook"><i class="fab fa-facebook-square fa-1.6x" ></i></a></li>
-                        <li><a href="#" style="color: lightgoldenrodyellow; padding-left: 20px; padding-right: 15px; padding-top: 10px;" class="ico-twitter"><i class="fab fa-instagram fa-1.6"></i></a></li>
+                        <li><a href="#" style="color: lightgoldenrodyellow ;padding-left: 20px; padding-right: 15px; padding-top: 10px;" class="ico-facebook"><i class="fab fa-facebook-f fa-1.6x" ></i></a></li>
+                        <li><a href="#" style="padding-left: 20px; padding-right: 15px; padding-top: 10px;" class="ico-twitter"><i class="fab fa-instagram fa-1.6"></i></a></li>
 
                      </ul>
 
@@ -164,8 +164,9 @@
                      <!-- Header Button -->
                     <span class="navbar-text white-color">
 								<a href="#contacts-1" class="btn btn-tra-white yellow-hover">Contact</a>
+                        <a style="padding-left: 20px; padding-right: 15px; padding-top: 10px;" href="https://www.facebook.com/Orr-Construction-Co-127958977227738/" class="ico-facebook"><i class="fab fa-facebook-f fa-1.5x"></i></a>
+                        <a style="padding-right: 15px; padding-top: 10px;" href="#" class="ico-twitter"><i class="fab fa-instagram fa-1.5x"></i></a>
 						    </span>
-
 
                 </div>	<!-- End Navigation Menu -->
 
